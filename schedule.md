@@ -10,10 +10,11 @@ micro_nav: false
 ---
 
 ## Announcements
-- Please check out the [FAQ](/faq) for a list of changes to the course for the remote, spring offering.
-- Please join [piazza]({{ site.course.piazza }}) during the first week. This is where the majority of course announcements will be found.
+- Announcements here.
 
-## Syllabus
+## Schedule
+
+_This is just an example for now..._
 
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">
     <colgroup>
