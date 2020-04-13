@@ -9,12 +9,12 @@ doks:
         nav:
             - item_name: Syllabus
               item_url: '/syllabus'
+            - item_name: Schedule
+              item_url: '/schedule'
             - item_name: Office Hours
               item_url: '/officehours'
-            - item_name: Project
-              item_url: '/project'
-            - item_name: Lecture
-              item_url: '/lecture'
+            - item_name: Assignments
+              item_url: '/assignments'
             - item_name: FAQ
               item_url: '/faq'
     footer:
