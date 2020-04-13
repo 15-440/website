@@ -54,7 +54,7 @@ course:
     semester: Fall 2020
     time: Tues/Thurs 10:30 AM - 11:50 AM
     venue: Gates Hillman Center (GHC) 4401
-    piazza: &pz 'https://piazza.com/class/k8z0pgk424i7ex'
+    piazza: &pz 'piazza.com/cmu/fall2020/1544015640/home'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
         name: '15-440 (Fall 2020)'
@@ -153,7 +153,7 @@ course:
           image: silhouette.png
           zoom_id: 9999999999
           calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Grade Hopper
+        - name: Grace Hopper
           type: On-campus TA
           url: https://google.com/
           image: silhouette.png
