@@ -4,7 +4,7 @@ comments: false
 keywords:
 
 title: Schedule
-description: For all "Materials and Assignments", follow the deadlines listed on this page.
+description: The time plan for the semester. For all assignments and projects, follow the deadlines listed on this page.
 buttons:
 micro_nav: false
 ---

@@ -4,7 +4,7 @@ comments: false
 keywords:
 
 title: Syllabus
-description: For all "Materials and Assignments", follow the deadlines listed on this page.
+description: All important things to know about the course. Course objectives, textbook, grading policies, etc.
 buttons:
 micro_nav: true
 ---
