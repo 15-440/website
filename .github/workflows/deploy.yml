@@ -23,33 +23,17 @@ jobs:
     - name: checkout
       uses: actions/checkout@v2
     
-    #
-    - name: update-bundler
-      run: sudo gem update --system
-
-    # Install dependencies
-    - name: dependencies
-      uses: docker://ruby:2.5
-      env:
-        BUNDLE_PATH: .bundle
+    - name: set up ruby
+    # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
+    # change this to (see https://github.com/ruby/setup-ruby#versioning):
+    # uses: ruby/setup-ruby@v1
+      uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
       with:
-        entrypoint: bundle
-        args: install -j=4
+        ruby-version: 2.6
 
-    # Build Jekyll site
-    - name: build
-      uses: docker://ruby:2.5
-      env:
-        BUNDLE_PATH: .bundle
-        LANG: en_US.UTF-8
-        LANGUAGE: en_US.UTF-8
-        LC_ALL: C.UTF-8
-      with:
-        entrypoint: bundle
-        args: exec rake build
+    - name: install dependencies
+      run: bundle install
+      
+    - name: build site with jekyll
+      run: bundle exec jekyll build
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
