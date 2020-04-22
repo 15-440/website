@@ -22,6 +22,10 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: checkout
       uses: actions/checkout@v2
+    
+    #
+    - name: update-bundler
+      run: sudo gem update --system
 
     # Install dependencies
     - name: dependencies
