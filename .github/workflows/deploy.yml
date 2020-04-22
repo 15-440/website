@@ -37,3 +37,15 @@ jobs:
     - name: build site with jekyll
       run: bundle exec jekyll build
 
+    - name: deploy to compsys
+      uses: AEnterprise/rsync-deploy@v1.0
+      env:
+        DEPLOY_KEY: ${{ secrets.COMPSYS_SERVER_SSH_KEY }}
+        ARGS: "-e -c -r -t -z -h --progress"
+        SERVER_PORT: ${{ secrets.COMPSYS_SERVER_PORT }}
+        FOLDER: "_site/"
+        SERVER_IP: ${{ secrets.COMPSYS_SERVER_IP }}
+        USERNAME: ${{ secrets.COMPSYS_USERNAME }}
+        SERVER_DESTINATION: ${{ secrets.COMPSYS_SERVER_DESTINATION }}
+
+
