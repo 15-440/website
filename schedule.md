@@ -14,7 +14,9 @@ micro_nav: false
 
 ## Schedule
 
-_This is just an example for now..._
+To be announced.
+
+<!-- _This is just an example for now..._
 
 <table id="schedule" class="table table-bordered no-more-tables" style="width: 100%; font-size: 0.8em;">
     <colgroup>
@@ -407,4 +409,4 @@ _This is just an example for now..._
             <td></td>
         </tr>
     </tbody>
-</table>
+</table> -->

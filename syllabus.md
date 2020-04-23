@@ -11,7 +11,7 @@ micro_nav: true
 
 ## Prerequisites
 
-Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C-" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
+Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
 
 ## Learning Objectives
 
@@ -66,7 +66,7 @@ Consulting another student's or group's solution is prohibited, and submitted so
 
 You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously). To be clear, this also means you may not leave your solutions publicly visible on the web, github, or any other platform.
 
-## Piazza Policy
+<!-- ## Piazza Policy
 
 This course uses the Piazza web site for answering questions. The home Piazza page for this course is at: [{{ site.course.piazza }}]({{ site.course.piazza }}). When posting questions on Piazza, students must keep in mind the collaboration guidelines noted above, and use those guidelines to determine:
 
@@ -78,7 +78,7 @@ Part of the learning process is struggling with the material until you arrive at
 - _Please do post and answer publicly:_ Misunderstandings of the assignment; clarifications about the requirements; bugs in the assignment spec or reference implementation or tests; small, detailed questions about the operation of system calls, functions, etc. Things that look like they'd go in the FAQ are good candidates for asking or answering.
 - _Please don't post or answer publicly:_ More than a few lines of code; in-depth explanations of how your system works; questions about the best approach for architecting the system at a high level; questions about your grade; problems with your partner; etc.
 
-Please use your judgement between these two examples. If you post privately, please let us know whether or not it would be OK to mark the post public if we feel it would be beneficial to the class to make it public.
+Please use your judgement between these two examples. If you post privately, please let us know whether or not it would be OK to mark the post public if we feel it would be beneficial to the class to make it public. -->
 
 ## Late Policy
 
