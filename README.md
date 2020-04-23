@@ -1,3 +1,5 @@
 # Website for the CMU 15-440 Distributed Systems course
 
-For now, this is a site built with Jekyll. I'd much rather use Hugo though!
+![deploy](https://github.com/15-440/website/workflows/deploy/badge.svg)
+
+Static site using Jekyll. Built and deployed with Github Actions.
