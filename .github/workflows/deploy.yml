@@ -22,7 +22,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: checkout
       uses: actions/checkout@v2
-    
+
     - name: set up ruby
     # To automatically get bug fixes and new Ruby versions for ruby/setup-ruby,
     # change this to (see https://github.com/ruby/setup-ruby#versioning):
@@ -33,9 +33,11 @@ jobs:
 
     - name: install dependencies
       run: bundle install
-      
+
     - name: build site with jekyll
       run: bundle exec jekyll build --baseurl 15-440/fa2020
+      env:
+        JEKYLL_ENV: production
 
     - name: deploy to compsys
       uses: AEnterprise/rsync-deploy@v1.0
@@ -47,5 +49,3 @@ jobs:
         SERVER_IP: ${{ secrets.COMPSYS_SERVER_IP }}
         USERNAME: ${{ secrets.COMPSYS_USERNAME }}
         SERVER_DESTINATION: ${{ secrets.COMPSYS_SERVER_DESTINATION }}
-
-

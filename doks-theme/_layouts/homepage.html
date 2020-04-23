@@ -23,7 +23,7 @@
 										{{ button.content }}
 									</a>
 									{% else %}
-									<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
+									<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ button.url }}" class="btn btn--dark btn--rounded btn--w-icon">
 										{% if button.icon %}<i class="icon icon--{{ button.icon }}"></i>{% endif %}
 										{{ button.content }}
 									</a>
@@ -44,7 +44,7 @@
 												<i class="icon icon--arrow-right"></i>
 											</a>
 											{% else %}
-											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ page.author.title_url }}" class="btn btn--read-more">
+											<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ page.author.title_url }}" class="btn btn--read-more">
 												{{ page.author.title }}
 												<i class="icon icon--arrow-right"></i>
 											</a>
@@ -68,7 +68,7 @@
 								<div class="row">
 									{% for item in page.grid_navigation %}
 										<div class="col-sm-6 col-lg-4">
-											<a href="{% if jekyll.environment == 'production' %}{{ site.doks.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
+											<a href="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}{{ item.url }}" class="nav-grid__item">
 												<div class="nav-grid__content" data-mh>
 													<h2 class="nav-grid__title">{{ item.title }}</h2>
 													<p>{{ item.excerpt }}</p>

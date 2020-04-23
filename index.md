@@ -42,4 +42,4 @@ After this course, students will have learned to...
 
 ## Course Policies
 
-For all of the course policies, including grading policies, please head to the [syllabus](/syllabus).
+For all of the course policies, including grading policies, please head to the [syllabus]({{ site.baseurl }}/syllabus).
