@@ -35,7 +35,7 @@ jobs:
       run: bundle install
       
     - name: build site with jekyll
-      run: bundle exec jekyll build
+      run: bundle exec jekyll build --baseurl 15-440/fa2020
 
     - name: deploy to compsys
       uses: AEnterprise/rsync-deploy@v1.0
