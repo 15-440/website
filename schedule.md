@@ -14,7 +14,10 @@ micro_nav: false
 
 ## Schedule
 
-To be announced.
+**_Topics/dates listed below are PRELIMINARY!_**
+
+<iframe title="Schedule" aria-label="chart" id="datawrapper-chart-3uf4G" src="https://datawrapper.dwcdn.net/3uf4G/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
 
 <!-- _This is just an example for now..._
 
