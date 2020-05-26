@@ -16,8 +16,34 @@ micro_nav: false
 
 **_Topics/dates listed below are PRELIMINARY!_**
 
-<iframe title="Schedule" aria-label="chart" id="datawrapper-chart-3uf4G" src="https://datawrapper.dwcdn.net/3uf4G/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="2238"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+<div id="myskedj"></div>
+
+<link href="http://unpkg.com/skedj@4.1.0/build/bootstrap-table.css" rel="stylesheet">
+<script type="text/javascript" src="http://unpkg.com/skedj@4.1.0/build/skedj.js"></script>
+<script type="text/javascript">
+var url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
+var rowcols = [
+                {
+                  sheet_row_txt: "First Midterm Exam",
+                  color: "#ffe59a"
+                },
+                {
+                  // sheet_row: 26,
+                  sheet_row_txt: "Thanksgiving",
+                  color: "#d9ebd3"
+                },		
+                {
+                  sheet_row_txt: "Second Midterm Exam",
+                  color: "#ffe59a"
+                }			
+              ];
+console.log(rowcols);
+Skedj(url, "myskedj", {
+    columns_to_skip: ["Recitation Lead", "Teaching", "Travel Schedule"],
+    special_row_colors: rowcols
+});
 </script>
+
 
 <!-- _This is just an example for now..._
 
