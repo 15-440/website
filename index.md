@@ -11,12 +11,14 @@ description: "<p>Most software is now distributed in some sense. This course is 
 buttons: [syllabus, piazza]
 micro_nav: true
 ---
-
+## Note regarding waitlist
+440: If you are on the waitlist, we encourage you to attend the first few classes. Typically there is a lot of churn in enrollment in the beginning of the semester. It is likely that the waitlist will get cleared in the initial few weeks. Of course, this cannot be guaranteed since it depends on other enrolled students dropping the course. <br>
+640: We expect the waitlist for 640 to be processed by July 17 2020.
 ## Course Information
 
-- This semester (Fall 2020), 15-440 is _planned_ to meet in-person on Tuesdays and Thursdays 10:30-11:50 AM in GHC4401.
-- All class communication happens on the 15-440 Piazza forum. For private matters, please make a private note visible only to the course instructors. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
-- The course content and deadlines for all assignments are listed in our syllabus.
+- This semester (Fall 2020), _tentatively_ lectures are going to be on Tuesdays and Thursdays 10:30-11:50 AM in GHC4401.
+- All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- The course content and deadlines for all assignments will be listed in our syllabus.
 
 <!-- Course Staff -->
 {% include staff.html %}
