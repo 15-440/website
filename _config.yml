@@ -55,7 +55,7 @@ permalink: /:title/
 course:
     semester: Fall 2020
     time: Tues/Thurs 10:30 AM - 11:50 AM
-    venue: Gates Hillman Center (GHC) 4401
+    venue: Online
     piazza: &pz 'piazza.com/cmu/fall2020/1544015640/home'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
