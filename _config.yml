@@ -1,4 +1,4 @@
-baseurl: "/15-440/fa2020"
+baseurl: "" #"/15-440/fa2020"
 
 # Theme settings
 doks:
@@ -147,15 +147,155 @@ course:
           type: Instructor
           url: http://www.cs.cmu.edu/~rvinayak/
           image: rashmi.jpg
+        - name: Matthew Weidner
+          email: maweidne@andrew.cmu.edu
+          type: Head TA
+          url: http://mattweidner.com/
+          image: matthew.png
 
     ta:
-        - name: Ada Lovelace
+        - name: Junwon Chang
+          email: junwonc@andrew.cmu.edu
           type: On-campus TA
           url: https://google.com/
           image: silhouette.png
           zoom_id: 9999999999
           calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Grace Hopper
+        - name: Shruti Chidambaram
+          email: schidamb@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: shruti.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Derik Clive
+          email: dclive@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: silhouette.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Yichen Fang
+          email: yichenf@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: yichen.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Crystal Jin
+          email: chenj@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: crystal.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Juncheng Li
+          email: junchenl@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: silhouette.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Yajin Li
+          email: yajinl@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: yajin.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Jikai Lu
+          email: jikail@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: jikai.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Huairui Qi
+          email: huairuiq@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: silhouette.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Jin Shang
+          email: jinshang@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: jin.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Suqi Sun
+          email: suqis@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: suqi.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Zhanlin Sun
+          email: zhanlins@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: zhanlin.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Manav Trivedi
+          email: mtrivedi@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: manav.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Soumya Vadlamannati
+          email: soumyav@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: silhouette.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Yiming Wen
+          email: yimingwe@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: yiming.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Ricky Xu
+          email: chenx2@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: ricky.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: HongChien Yu
+          email: hongqiay@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: hongchien.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Michael Zhang
+          email: jinyaoz@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: michael.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Ling Zhang
+          email: lingz2@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: ling.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Yijie Zhang
+          email: yijiez2@andrew.cmu.edu
+          type: On-campus TA
+          url: https://google.com/
+          image: yijie.png
+          zoom_id: 9999999999
+          calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Yining Zhu
+          email: yiningz2@andrew.cmu.edu
           type: On-campus TA
           url: https://google.com/
           image: silhouette.png
