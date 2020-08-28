@@ -17,7 +17,7 @@ micro_nav: true
 ## Course Information
 
 - This semester (Fall 2020), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
-- This semester (Fall 2020), _tentatively_ lectures are going to be on Tuesdays and Thursdays 10:30-11:50 AM in GHC4401.
+- This semester (Fall 2020), lectures are going to be on Tuesdays and Thursdays 10:30-11:50 AM online via Zoom.
 - All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments will be listed in our syllabus.
 
