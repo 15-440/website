@@ -50,19 +50,19 @@ jobs:
         USERNAME: ${{ secrets.COMPSYS_USERNAME }}
         SERVER_DESTINATION: ${{ secrets.COMPSYS_SERVER_DESTINATION }}
 
-    - name: install kerberos client
-      run: sudo apt-get install krb5-user
+#     - name: install kerberos client
+#       run: sudo apt-get install krb5-user
 
-    - name: get kerberos ticket
-      run: echo '${{ secrets.UNI_PASS }}' | kinit ${{ secrets.UNI_USER }}@${{ secrets.UNI_HOST }}
+#     - name: get kerberos ticket
+#       run: echo '${{ secrets.UNI_PASS }}' | kinit ${{ secrets.UNI_USER }}@${{ secrets.UNI_HOST }}
 
-    - name: deploy to uni
-      uses: AEnterprise/rsync-deploy@06168fb
-      env:
-        DEPLOY_KEY: ${{ secrets.UNI_SERVER_SSH_KEY }}
-        ARGS: "-e -c -r -t -z -h -K -vv --progress"
-        SERVER_PORT: ${{ secrets.UNI_SERVER_PORT }}
-        FOLDER: "_site/"
-        SERVER_IP: ${{ secrets.UNI_SERVER_IP }}
-        USERNAME: ${{ secrets.UNI_USERNAME }}
-        SERVER_DESTINATION: ${{ secrets.UNI_SERVER_DESTINATION }}
+#     - name: deploy to uni
+#       uses: AEnterprise/rsync-deploy@06168fb
+#       env:
+#         DEPLOY_KEY: ${{ secrets.UNI_SERVER_SSH_KEY }}
+#         ARGS: "-e -c -r -t -z -h -K -vv --progress"
+#         SERVER_PORT: ${{ secrets.UNI_SERVER_PORT }}
+#         FOLDER: "_site/"
+#         SERVER_IP: ${{ secrets.UNI_SERVER_IP }}
+#         USERNAME: ${{ secrets.UNI_USERNAME }}
+#         SERVER_DESTINATION: ${{ secrets.UNI_SERVER_DESTINATION }}
