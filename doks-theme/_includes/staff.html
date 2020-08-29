@@ -5,6 +5,8 @@
         <img class="headshot" src="{% if jekyll.environment == 'production' %}{{ site.baseurl }}{% endif %}/doks-theme/assets/images/headshot/{{ people.image }}" style="text-align:center;">
         <div style="text-align:center;">{{ people.name }}<br>{{ people.type }}</div>
 	</a>
+	{% if people.email %}<div class="staff-email"> {{ people.email }} </div>{% endif %}
+	{% if people.oh %}<div class="oh"> {{ people.oh }} </div>{% endif %}
 </div>
 {% endfor%}
 
