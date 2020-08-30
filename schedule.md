@@ -14,7 +14,7 @@ micro_nav: false
 
 ## Schedule
 
-**_Topics/dates listed below are PRELIMINARY!_**
+**_NOTE: Topics/dates listed below are not set in stone. Some adjustments might be made over the course of the semester._**
 
 <div id="myskedj"></div>
 
