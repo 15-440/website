@@ -54,7 +54,7 @@ permalink: /:title/
 # Course logistics
 course:
     semester: Fall 2020
-    time: Tues/Thurs 10:30 AM - 11:50 AM
+    time: Tues/Thurs 9:50 AM - 11:10 AM
     venue: Online
     piazza: &pz 'piazza.com/cmu/fall2020/1544015640/home'
     queuestatus:

@@ -21,7 +21,7 @@ micro_nav: false
 <link href="http://unpkg.com/skedj@4.1.0/build/bootstrap-table.css" rel="stylesheet">
 <script type="text/javascript" src="http://unpkg.com/skedj@4.1.0/build/skedj.js"></script>
 <script type="text/javascript">
-var url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
+var url = "https://cors-anywhere.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
 var rowcols = [
                 {
                   sheet_row_txt: "First Midterm Exam",
@@ -35,11 +35,15 @@ var rowcols = [
                 {
                   sheet_row_txt: "Second Midterm Exam",
                   color: "#ffe59a"
-                }			
+                },
+                {
+                  sheet_row_txt: "Recitation",
+                  color: "#e8f2fc"
+                }                			
               ];
 console.log(rowcols);
 Skedj(url, "myskedj", {
-    columns_to_skip: ["Recitation Lead", "Teaching", "Travel Schedule"],
+    columns_to_skip: ["Recitation Lead", "Recitation", "Teaching", "Travel Schedule"],
     special_row_colors: rowcols
 });
 </script>
