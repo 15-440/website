@@ -56,7 +56,7 @@ course:
     semester: Fall 2020
     time: Tues/Thurs 9:50 AM - 11:10 AM
     venue: Online
-    piazza: &pz 'piazza.com/cmu/fall2020/1544015640/home'
+    piazza: &pz 'https://piazza.com/cmu/fall2020/1544015640/home'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
         name: '15-440 (Fall 2020)'
