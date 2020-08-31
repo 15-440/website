@@ -11,13 +11,19 @@ description: "<p>Most software is now distributed in some sense. This course is 
 buttons: [syllabus, piazza]
 micro_nav: true
 ---
+
+## Announcements
+
+- **Zoom link:** If you are registered for the course or on the waitlist, you should have received an email from Prof. Vinayak with a link for joining the lecture. The link is also posted as an announcement on the course's Canvas page.
+
 ## Note regarding waitlist
-440: If you are on the waitlist, we encourage you to attend the first few classes. Typically there is a lot of churn in enrollment in the beginning of the semester. It is likely that the waitlist will get cleared in the initial few weeks. Of course, this cannot be guaranteed since it depends on other enrolled students dropping the course. <br>
-640: We expect the waitlist for 640 to be processed by July 17 2020.
+
+If you are on the waitlist, we encourage you to attend the first few classes. Typically there is a lot of churn in enrollment in the beginning of the semester. It is likely that the waitlist will get cleared in the initial few weeks. Of course, this cannot be guaranteed since it depends on other enrolled students dropping the course.
+
 ## Course Information
 
 - This semester (Fall 2020), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
-- This semester (Fall 2020), lectures are going to be on Tuesdays and Thursdays 10:30-11:50 AM online via Zoom.
+- This semester (Fall 2020), lectures are going to be on {{ site.course.time }} online via Zoom.
 - All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
 - The course content and deadlines for all assignments will be listed in our syllabus.
 
