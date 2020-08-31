@@ -157,10 +157,10 @@ course:
           email: maweidne@andrew.cmu.edu
 
     ta:
-        - name: Junwon Chang
+        - name: Joseph Chang
           email: junwonc@andrew.cmu.edu
           type: TA
-          image: silhouette.png
+          image: joseph.png
           # zoom_id: 9999999999
           # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
         - name: Shruti Chidambaram
