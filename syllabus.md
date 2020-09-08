@@ -84,15 +84,26 @@ Please use your judgement between these two examples. If you post privately, ple
 
 Take project and homework deadlines seriously. Our experience is that students often seriously underestimate the effort involved in programming assignments and projects. If we give you 4 weeks to complete an assignment, there is typically a reason. In the interest of fairness, we have adopted the following late policy:
 
+- 2 late days are automatically granted for every assignment for valid reasons.
+  - This applies for every project and homework individually.
+  - Use it for any reason that you **honestly feel is a valid reason**.
+  - No need to email us for permission.
+- There is no grade penalty for these 2 late days.
+- No TA help will be given after the official deadline (i.e., during late days).
+- Work cannot be more than 2 days late.  Assignments will **NOT** be accepted 48 hours after the due date.
+- If you are ill: If you have a medical note, you may turn in your assignments late without penalty. Please contact the instructors to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a medical note, the above policies apply.
+
+<!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
 - No deadline can be extended by more than two days. Assignments will NOT be accepted 48 hours after the due date.
 - If you are ill: If you have a medical note, you may turn in your assignments late without penalty. Please contact the instructors to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a medical note, you will accessed the same late penalty as with any other reason for being late.
+-->
 
 ## Re-Grading
 
-If you think we made a mistake in grading, please return the assignment with a note explaining your concern to the course secretary no later than two weeks after the day the assignment was returned. We will have the question re-graded by the person responsible for grading that question.
+If you think we made a mistake in grading, please submit a regrade request on Gradescope with a note explaining your concern no later than two weeks after the day the assignment was returned. We will have the question re-graded by the person responsible for grading that question.
 
-Also note that in this course, project grades will be determined based on the final submission you make to Autolab.
+Also note that in this course, project grades will be determined based on the final submission you make to Gradescope.
 
 ## Recordings
 
