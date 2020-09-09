@@ -11,7 +11,7 @@ micro_nav: false
 
 ## Assignments
 
-| Topic                       | Release Date | Due Date         | Collaboration | Other Info |
-|-----------------------------|--------------|------------------|---------------|------------|
-| [Project 0](www.google.com) | 9/8          | 9/17 11:59PM EDT | individual    |            |
+| Topic                                     | Release Date | Due Date         | Collaboration | Other Info |
+|-------------------------------------------|--------------|------------------|---------------|------------|
+| [Project 0](https://github.com/15-440/P0) | 9/8          | 9/17 11:59PM EDT | individual    |            |
 
