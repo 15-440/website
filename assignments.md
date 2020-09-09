@@ -9,4 +9,9 @@ buttons:
 micro_nav: false
 ---
 
-Hang tight. We'll post more info about each of the projects and homeworks here soon.
+## Assignments
+
+| Topic                       | Release Date | Due Date         | Collaboration | Other Info |
+|-----------------------------|--------------|------------------|---------------|------------|
+| [Project 0](www.google.com) | 9/8          | 9/17 11:59PM EDT | individual    |            |
+
