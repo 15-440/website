@@ -35,6 +35,8 @@ _**IMPORTANT NOTE:**_ You may NOT attend an in-person recitation that you are no
 
 ## In-Person Recitation Sessions
 
+Update: Going forward, we will send out an RSVP form to students registered for in-person sections each week.  If you might want to attend in-person, please fill out the form.  We will follow up with room info once we see how many sections we need to hold in-person.  (If you decide you want to attend in-person after the form has closed, email Matthew <maweidne@andrew.cmu.edu> and he'll send you the room info, assuming there is still space.)
+
 If you are scheduled for an in-person recitation session, we do not require you to physically attend the session if you feel uncomfortable (or cannot) attend in  person.
 
 All in-person recitation sessions will be livestreamed and recorded as well. So if you prefer to attend the the in-person recitation session REMOTELY, you will be able to.
