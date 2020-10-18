@@ -19,6 +19,8 @@ doks:
               item_url: '/assignments'
             - item_name: Recitations
               item_url: '/recitations'
+            - item_name: Past Exams
+              item_url: '/past-exams'              
             # - item_name: FAQ
             #   item_url: '/faq'
     footer:
