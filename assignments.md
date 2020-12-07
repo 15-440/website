@@ -20,4 +20,4 @@ micro_nav: false
 | Project 2                                 | 10/26        | 11/9 11:59PM EST (Checkpoint) <br> 11/17 ~~11/16~~ 11:59PM EST (Final) | individual  |     |
 | Homework 3                                | 11/3         | 11/12 11:59PM EST | individual    |            |
 | Project 3                                 | 11/17        | 12/1 11:59PM EST (Checkpoint) <br> 12/11 11:59PM EST (Final) | group of 2  |     |
-| Homework 4                                | 11/19        | 12/7 11:59PM EST | individual    |            |
+| Homework 4                                | 11/19        | 12/7 11:59PM EST | individual    | Late deadline **12/8 11:59 pm EST** due to exam           |
