@@ -2,7 +2,7 @@ baseurl: ""
 
 # Theme settings
 doks:
-    baseurl: "/15-440/fa2020"
+    baseurl: "/15-440/fa2022"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -20,7 +20,7 @@ doks:
             - item_name: Recitations
               item_url: '/recitations'
             - item_name: Past Exams
-              item_url: '/past-exams'              
+              item_url: '/past-exams'
             # - item_name: FAQ
             #   item_url: '/faq'
     footer:
@@ -57,13 +57,13 @@ permalink: /:title/
 
 # Course logistics
 course:
-    semester: Fall 2020
-    time: Tues/Thurs 9:50 AM - 11:10 AM
-    venue: Online
+    semester: Fall 2022
+    time: <strong>Sec 1</strong> Tue/Thu 10:10-11:30  in GHC 4401<br><strong>Sec 2</strong> Tue/Thu 11:50-1:10 in DH 1212
+    venue:
     piazza: &pz 'https://piazza.com/cmu/fall2020/1544015640/home'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
-        name: '15-440 (Fall 2020)'
+        name: '15-440 (Fall 2022)'
     canvas: 'https://canvas.cmu.edu/'
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
@@ -148,11 +148,16 @@ course:
           url: https://heather.miller.am
           image: heather.jpg
           email: heather.miller@cs.cmu.edu
-        - name: Rashmi K. Vinayak
+        - name: Peter Steenkiste
           type: Instructor
-          url: http://www.cs.cmu.edu/~rvinayak/
-          image: rashmi.jpg
-          email: rvinayak@andrew.cmu.edu
+          url: https://www.cs.cmu.edu/~prs/
+          image: peter.jpg
+          email: prs@cs.cmu.edu
+        - name: Wenting Zheng
+          type: Instructor
+          url: https://wzheng.github.io/
+          image: wenting.jpg
+          email: wenting@cmu.edu
         - name: Matthew Weidner
           email: maweidne@andrew.cmu.edu
           type: Head TA
@@ -161,128 +166,8 @@ course:
           email: maweidne@andrew.cmu.edu
 
     ta:
-        - name: Joseph Chang
-          email: junwonc@andrew.cmu.edu
-          type: TA
-          image: joseph.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Shruti Chidambaram
-          email: schidamb@andrew.cmu.edu
-          type: TA
-          image: shruti.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Derik Clive
-          email: dclive@andrew.cmu.edu
-          type: TA
-          image: silhouette.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Yichen Fang
-          email: yichenf@andrew.cmu.edu
-          type: TA
-          image: yichen.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Crystal Jin
-          email: chenj@andrew.cmu.edu
-          type: TA
-          image: crystal.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Juncheng Li
-          email: junchenl@andrew.cmu.edu
-          type: TA
-          image: silhouette.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Yajin Li
-          email: yajinl@andrew.cmu.edu
-          type: TA
-          image: yajin.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Jikai Lu
-          email: jikail@andrew.cmu.edu
-          type: TA
-          image: jikai.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Huairui Qi
-          email: huairuiq@andrew.cmu.edu
-          type: TA
-          image: huairui.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Jin Shang
-          email: jinshang@andrew.cmu.edu
-          type: TA
-          image: jin.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Suqi Sun
-          email: suqis@andrew.cmu.edu
-          type: TA
-          image: suqi.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Zhanlin Sun
-          email: zhanlins@andrew.cmu.edu
-          type: TA
-          image: zhanlin.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Manav Trivedi
-          email: mtrivedi@andrew.cmu.edu
-          type: TA
-          image: manav.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Soumya Vadlamannati
-          email: soumyav@andrew.cmu.edu
-          type: TA
-          image: silhouette.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Yiming Wen
-          email: yimingwe@andrew.cmu.edu
-          type: TA
-          image: yiming.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Ricky Xu
-          email: chenx2@andrew.cmu.edu
-          type: TA
-          image: ricky.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: HongChien Yu
-          email: hongqiay@andrew.cmu.edu
-          type: TA
-          image: hongchien.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Michael Zhang
-          email: jinyaoz@andrew.cmu.edu
-          type: TA
-          image: michael.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Ling Zhang
-          email: lingz2@andrew.cmu.edu
-          type: TA
-          image: ling.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Yijie Zhang
-          email: yijiez2@andrew.cmu.edu
-          type: TA
-          image: yijie.png
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Yining Zhu
-          email: yiningz2@andrew.cmu.edu
+        - name: TBA
+          email: tba@cmu.edu
           type: TA
           image: silhouette.png
           # zoom_id: 9999999999

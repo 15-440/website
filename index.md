@@ -12,9 +12,9 @@ buttons: [syllabus, piazza]
 micro_nav: true
 ---
 
-## Announcements
+<!-- ## Announcements
 
-- **Zoom link:** If you are registered for the course or on the waitlist, you should have received an email from Prof. Vinayak with a link for joining the lecture. The link is also posted as an announcement on the course's Canvas page.
+- **Zoom link:** If you are registered for the course or on the waitlist, you should have received an email from Prof. Vinayak with a link for joining the lecture. The link is also posted as an announcement on the course's Canvas page. -->
 
 ## Note regarding waitlist
 
@@ -22,9 +22,9 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 
 ## Course Information
 
-- This semester (Fall 2020), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
-- This semester (Fall 2020), lectures are going to be on {{ site.course.time }} online via Zoom.
-- All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please email individual TAs.
+- This semester (Fall 2022), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
+- This semester (Fall 2022), lectures are going to be on Tuesdays and Thursdays in two sections. Section 1 will take place from 10:10AM-11:30AM in GHC 4401. Section 2 will take place 11:50AM-1:10PM in DH 1212.
+- All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please use the staff email address for the course.
 - The course content and deadlines for all assignments will be listed in our syllabus.
 
 <!-- Course Staff -->
