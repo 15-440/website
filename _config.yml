@@ -60,7 +60,7 @@ course:
     semester: Fall 2022
     time: <strong>Sec 1</strong> Tue/Thu 10:10-11:30  in GHC 4401<br><strong>Sec 2</strong> Tue/Thu 11:50-1:10 in DH 1212
     venue:
-    piazza: &pz 'https://piazza.com/cmu/fall2020/1544015640/home'
+    piazza: &pz 'piazza.com/cmu/fall2022/1544015640/home'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
         name: '15-440 (Fall 2022)'
