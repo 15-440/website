@@ -11,6 +11,8 @@ micro_nav: false
 
 ## Assignments
 
+**TO SUBMIT:** All assignments (both projects and homeworks) must be submitted by the indicated deadline via [Gradescope]({{ site.course.links.gradescope.url }}).
+
 Homework solutions are available on Canvas, under "Files".
 
 | Topic                                     | Release Date | Due Date          | Collaboration | Other Info |
