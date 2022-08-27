@@ -60,7 +60,7 @@ course:
     semester: Fall 2022
     time: <strong>Sec 1</strong> Tue/Thu 10:10-11:30  in GHC 4401<br><strong>Sec 2</strong> Tue/Thu 11:50-1:10 in DH 1212
     venue:
-    piazza: &pz 'piazza.com/cmu/fall2022/1544015640/home'
+    piazza: &pz 'https://edstem.org/us/join/qdCuyz'
     gradescope: &gs 'https://www.gradescope.com/courses/390524'
     queuestatus:
         url: &qs 'https://cmu.ohqueue.com/#/'
@@ -126,7 +126,7 @@ course:
             external_url: false
         piazza:
             icon:
-            content: Piazza
+            content: Edstem (like Piazza)
             url: *pz
             external_url: true
         video:
