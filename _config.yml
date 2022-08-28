@@ -173,9 +173,64 @@ course:
           email: maweidne@andrew.cmu.edu
 
     ta:
-        - name: TBA
-          email: tba@cmu.edu
+        - name: Boxuan Li
+          email: boxuanli@andrew.cmu.edu
           type: TA
-          image: silhouette.png
+          image: boxuan-li.jpg
           # zoom_id: 9999999999
           # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
+        - name: Chonghan Chen
+          email: chonghac@andrew.cmu.edu
+          type: TA
+          image: silhouette.png
+        - name: Edward Chen
+          email: ejchen@andrew.cmu.edu
+          type: TA
+          image: edward-chen.jpg
+        - name: Emily X Zhang
+          email: exz@andrew.cmu.edu
+          type: TA
+          image: silhouette.png
+        - name: Jinhao Zhu
+          email: jinhaoz@andrew.cmu.edu
+          type: TA
+          image: jinhao-zhu.png          
+        - name: Kanishka Bandaru
+          email: kbandaru@andrew.cmu.edu
+          type: TA
+          image: silhouette.png                    
+        - name: Mingkang Li
+          email: mingkanl@andrew.cmu.edu
+          type: TA
+          image: mingkang-li.jpg
+        - name: Rohit Pandey
+          email: rohitp@andrew.cmu.edu
+          type: TA
+          image: silhouette.png
+        - name: Shuning Lin
+          email: shuningl@andrew.cmu.edu
+          type: TA
+          image: shuning-lin.jpg
+        - name: Sumanth Rao
+          email: ssr2@andrew.cmu.edu
+          type: TA
+          image: sumanth-rao.jpg
+        - name: Ying Chen
+          email: yingc4@andrew.cmu.edu
+          type: TA
+          image: ying-chen.jpg
+        - name: Yiwen (Victor) Song
+          email: yiwenson@andrew.cmu.edu
+          type: TA
+          image: yiwen-song.jpg
+        - name: Yizhou Sheng
+          email: yizhoush@andrew.cmu.edu
+          type: TA
+          image: yizhou-sheng.jpg
+        - name: Zeean Veljee
+          email: zsvh@andrew.cmu.edu
+          type: TA
+          image: zeean-veljee.png
+
+
+
