@@ -198,7 +198,7 @@ course:
         - name: Kanishka Bandaru
           email: kbandaru@andrew.cmu.edu
           type: TA
-          image: silhouette.png                    
+          image: kanishka-bandaru.jpg                    
         - name: Mingkang Li
           email: mingkanl@andrew.cmu.edu
           type: TA
@@ -206,7 +206,11 @@ course:
         - name: Rohit Pandey
           email: rohitp@andrew.cmu.edu
           type: TA
-          image: silhouette.png
+          image: rohit-pandey.jpg
+        - name: Shantanu Kamath
+          email: shantank@andrew.cmu.edu
+          type: TA
+          image: shantanu-kamath.jpg          
         - name: Shuning Lin
           email: shuningl@andrew.cmu.edu
           type: TA
