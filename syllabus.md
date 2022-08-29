@@ -52,11 +52,11 @@ Your final grade for the course will be based on the following weights for the c
 - 20% Midterm 1
 - 20% Midterm 2
 
-The midterms will be in-class, closed-book exams. While they may cover all material to that point in the class, their content will emphasize the material covered since the previous exam. The final exam will be a closed-book exam, covering material from the whole semester, with slight emphasis on material covered since the last midterm.
+Both midterms will be closed book exams.  Midterm 1 will be in class while Midterm 2 will be held during finals week.  Midterm 1 will cover the material presented in the first half of the semester while Midterm 2 will cover the material presented in the second half.  Note however that later material builds on material presented earlier, so Midterm 2 will indirectly cover material presented early in the course.
 
 For more information about the project component, see the [assignments](/assignments) page.
 
-The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be three homework assignments.
+The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
 
 _Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, exams, and the projects) in order to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 
