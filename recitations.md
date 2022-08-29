@@ -17,10 +17,10 @@ We have several recitation sessions. As of now, all are set to take place in-per
 | Section |    Day    |        Time       |   Format  |   Room    |
 |:-------:|:---------:|:-----------------:|:---------:|:---------:|
 |    A    |  Friday   |  9:05am - 9:55am  | In-Person |   BH A36  |
-|    B    |  Friday   |  9:10pm - 10:00pm | In-Person |   BH A36  |
+|    B    |  Friday   |  10:10am - 11:00am | In-Person |   BH A36  |
 |    C    |  Friday   |  3:35pm - 4:25pm  | In-Person |  POS 153  |
 |    D    |  Friday   |  3:35pm - 4:25pm  | In-Person |  DH 1212  |
 
 
 
-_**IMPORTANT NOTE:**_ You may NOT attend an in-person recitation that you are not registered for. This is a COVID-related university-wide regulation.
+You may attend a recitation section besides the one you are enrolled in if there is space available in the room.

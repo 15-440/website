@@ -21,7 +21,7 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 
 - This semester (Fall 2022), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
 - This semester (Fall 2022), lectures are going to be on Tuesdays and Thursdays in two sections. Section 1 will take place from 10:10AM-11:30AM in GHC 4401. Section 2 will take place 11:50AM-1:10PM in DH 1212.
-- All class communication happens on the 15-440 Piazza forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please use the staff email address for the course.
+- All class communication happens on the 15-440 Edstem forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours. If you need to contact us via email, please use the staff email address for the course.
 - The course content and deadlines for all assignments will be listed in our syllabus.
 
 <!-- Course Staff -->
