@@ -15,7 +15,7 @@ micro_nav: true
 
 ## Note regarding waitlist
 
-If you are on the waitlist, we encourage you to attend the first few classes. Typically there is a lot of churn in enrollment in the beginning of the semester. It is likely that the waitlist will get cleared in the initial few weeks. Of course, this cannot be guaranteed since it depends on other enrolled students dropping the course.
+If you are on the waitlist, we encourage you to attend the first few classes. Typically there is a lot of churn in enrollment in the beginning of the semester. It is possible that the waitlist will clear somewhat in the initial few weeks. Of course, this cannot be guaranteed since it depends on other enrolled students dropping the course.
 
 ## Course Information
 
