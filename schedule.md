@@ -33,6 +33,10 @@ var rowcols = [
                   color: "#d9ebd3"
                 },		
                 {
+                  sheet_row_txt: "Fall Break",
+                  color: "#d9ebd3"
+                },		                
+                {
                   sheet_row_txt: "Second Midterm Exam",
                   color: "#ffe59a"
                 },
