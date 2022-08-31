@@ -16,10 +16,12 @@ micro_nav: false
 
 <div id="myskedj"></div>
 
-<!-- <link href="http://unpkg.com/skedj@4.1.0/build/bootstrap-table.css" rel="stylesheet">
+<link href="http://unpkg.com/skedj@4.1.0/build/bootstrap-table.css" rel="stylesheet">
 <script type="text/javascript" src="http://unpkg.com/skedj@4.1.0/build/skedj.js"></script>
 <script type="text/javascript">
-var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
+var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vTUigBx76LT-1zS5GSExE1FzD93Vu_KDOSMaTjoSxQaH_1yB7hanz1jYW78dxXKeA/pub?gid=118115803&single=true&output=csv";
+// var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
+
 var rowcols = [
                 {
                   sheet_row_txt: "First Midterm Exam",
@@ -44,7 +46,7 @@ Skedj(url, "myskedj", {
     columns_to_skip: ["Recitation Lead", "Recitation", "Teaching", "Travel Schedule"],
     special_row_colors: rowcols
 });
-</script> -->
+</script>
 
 
 <!-- _This is just an example for now..._
