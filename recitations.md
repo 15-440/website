@@ -11,6 +11,8 @@ micro_nav: true
 
 We have several recitation sessions. As of now, all are set to take place in-person.
 
+Recitations are **not held every week**, only when shown on the [schedule](../schedule). We will also announce upcoming recitations in lecture.
+
 **All** recitations take place on Fridays.
 
 
