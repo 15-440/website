@@ -9,7 +9,7 @@ buttons:
 micro_nav: false
 ---
 
-Office hours will be held in the GHC commons. We will use [OHQueue](https://cmu.ohqueue.com/#/ca) to manage student wait time for TAs.
+Office hours will be held in the GHC commons, unless otherwise noted in the calendar below. We will use [OHQueue](https://cmu.ohqueue.com/#/ca) to manage student wait time for TAs, queue name "15-440" (*not "15-4400640"*).
 
 **Important notes**
 
