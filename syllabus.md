@@ -54,7 +54,7 @@ Your final grade for the course will be based on the following weights for the c
 
 Both midterms will be closed book exams.  Midterm 1 will be in class while Midterm 2 will be held during finals week.  Midterm 1 will cover the material presented in the first half of the semester while Midterm 2 will cover the material presented in the second half.  Note however that later material builds on material presented earlier, so Midterm 2 will indirectly cover material presented early in the course.
 
-For more information about the project component, see the [assignments](/assignments) page.
+For more information about the project component, see the [assignments](./assignments) page.
 
 The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
 
