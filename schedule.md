@@ -47,7 +47,7 @@ var rowcols = [
               ];
 console.log(rowcols);
 Skedj(url, "myskedj", {
-    columns_to_skip: ["Recitation Lead", "Recitation", "Teaching", "Travel Schedule"],
+    columns_to_skip: ["Recitation Lead", "Recitation", "Travel Schedule"],
     special_row_colors: rowcols
 });
 </script>
