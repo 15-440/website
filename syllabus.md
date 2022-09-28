@@ -93,7 +93,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 - There is no grade penalty for these 2 late days.
 - No TA help will be given after the official deadline (i.e., during late days).
 - Work cannot be more than 2 days late.  Assignments will **NOT** be accepted 48 hours after the due date.
-- If you are ill: If you have a medical note, you may turn in your assignments late without penalty. Please contact the instructors to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a medical note, the above policies apply.
+- If you are ill: If you have a medical note, you may turn in your assignments late without penalty. Please contact the [instructors mailing list](mailto:private-to-instructors-15-440-fall2022@lists.andrew.cmu.edu) to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a medical note, the above policies apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
