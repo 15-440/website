@@ -15,6 +15,8 @@ micro_nav: false
 
 Homework solutions are available on Canvas, under "Files".
 
+[Rubric](https://drive.google.com/file/d/1jWg8ugHQRxCnknrFaUBPTOlCDwwusNK-/view?usp=sharing) for project manual grading
+
 | Topic                                     | Release Date | Due Date          | Collaboration | Other Info |
 |-------------------------------------------|--------------|-------------------|---------------|------------|
 | [Project 0](https://github.com/15-440/p0)                             | 9/2          | 9/15 11:59PM EDT  | individual     |            |
