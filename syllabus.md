@@ -47,7 +47,7 @@ The lecture notes will be available after each lecture to assist with studying -
 
 Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary slightly by the difficulty of the project:
 
-- 45% Projects
+- 45% Projects (9% P0, 15% P1, 11% P2, 10% P3)
 - 15% Homework
 - 20% Midterm 1
 - 20% Midterm 2
