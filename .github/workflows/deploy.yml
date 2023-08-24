@@ -36,7 +36,7 @@ jobs:
       run: bundle install
 
     - name: build site with jekyll
-      run: bundle exec jekyll build --baseurl "/15-440/fa2023"
+      run: bundle exec jekyll build --baseurl "/15-440/fa2022"
       env:
         JEKYLL_ENV: production
 
