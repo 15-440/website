@@ -2,7 +2,7 @@ baseurl: ""
 
 # Theme settings
 doks:
-    baseurl: "/15-440/fa2022"
+    baseurl: "/15-440/fa2022/"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -57,14 +57,14 @@ permalink: /:title/
 
 # Course logistics
 course:
-    semester: Fall 2022
-    time: <strong>Sec 1</strong> Tue/Thu 10:10-11:30  in GHC 4401<br><strong>Sec 2</strong> Tue/Thu 11:50-1:10 in DH 1212
+    semester: Fall 2023
+    time: Tue/Thu 11:00-12:20 in CUC MCCNMY
     venue:
-    piazza: &pz 'https://edstem.org/us/join/qdCuyz'
-    gradescope: &gs 'https://www.gradescope.com/courses/390524'
+    piazza: &es ''
+    gradescope: &gs 'https://www.gradescope.com/courses/586692'
     queuestatus:
-        url: &qs 'https://cmu.ohqueue.com/#/'
-        name: '15-440 (Fall 2022)'
+        url: &qs 'https://ohq.eberly.cmu.edu/#/'
+        name: '15-440 (Fall 2023)'
     canvas: 'https://canvas.cmu.edu/'
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
@@ -126,8 +126,8 @@ course:
             external_url: false
         piazza:
             icon:
-            content: Edstem (like Piazza)
-            url: *pz
+            content: Edstem
+            url: *es
             external_url: true
         video:
             icon:
@@ -155,86 +155,104 @@ course:
           url: https://heather.miller.am
           image: heather.jpg
           email: heather.miller@cs.cmu.edu
-        - name: Peter Steenkiste
-          type: Instructor
-          url: https://www.cs.cmu.edu/~prs/
-          image: peter.jpg
-          email: prs@cs.cmu.edu
         - name: Wenting Zheng
           type: Instructor
           url: https://wzheng.github.io/
           image: wenting.jpg
           email: wenting@cmu.edu
-        - name: Matthew Weidner
-          email: maweidne@andrew.cmu.edu
+        - name: Edward Chen
+          email: ejchen@cmu.edu
           type: Head TA
-          url: http://mattweidner.com/
-          image: matthew.png
-          email: maweidne@andrew.cmu.edu
+          url: https://edwjchen.github.io/
+          image: edward-chen.jpg
+          email: ejchen@cmu.edu
 
     ta:
-        - name: Boxuan Li
-          email: boxuanli@andrew.cmu.edu
+        - name: Adhvik Kanagala
+          email: akanagaL@andrew.cmu.edu
           type: TA
-          image: boxuan-li.jpg
-          # zoom_id: 9999999999
-          # calendly: https://calendly.com/15440fall2020/firstname-lastname-oh
-        - name: Chonghan Chen
-          email: chonghac@andrew.cmu.edu
+          image: adhvik-kanagala.jpg
+        - name: Allen Lu
+          email: allenlu@andrew.cmu.edu
           type: TA
-          image: chonghan-chen.jpg
-        - name: Edward Chen
-          email: ejchen@andrew.cmu.edu
+          image: allen-lu.jpg
+        - name: Arjun Rao
+          email: arjunman@andrew.cmu.edu
           type: TA
-          image: edward-chen.jpg
-        - name: Emily X Zhang
-          email: exz@andrew.cmu.edu
+          image: arjun-rao.jpg
+        - name: Deigant Yadava
+          email: dyadava@andrew.cmu.edu
           type: TA
-          image: emily-zhang.png
-        - name: Jinhao Zhu
-          email: jinhaoz@andrew.cmu.edu
+          image: deigant-yadava.jpg
+        - name: Eshita Shrawan
+          email: eshrawan@andrew.cmu.edu
           type: TA
-          image: jinhao-zhu.png          
-        - name: Kanishka Bandaru
-          email: kbandaru@andrew.cmu.edu
+          image: eshita-shrawan.jpg
+        - name: Elizabeth Gilbert
+          email: evgilber@andrew.cmu.edu
           type: TA
-          image: kanishka-bandaru.jpg                    
-        - name: Mingkang Li
-          email: mingkanl@andrew.cmu.edu
+          image: elizabeth-gilbert.jpg
+        - name: Hong Sng
+          email: hongsng@andrew.cmu.edu
           type: TA
-          image: mingkang-li.jpg
-        - name: Rohit Pandey
-          email: rohitp@andrew.cmu.edu
+          image: hong-sng.jpg       
+        - name: Hung-Chieh (Tommy) Chen
+          email: hungchic@andrew.cmu.edu
           type: TA
-          image: rohit-pandey.jpg
-        - name: Shantanu Kamath
-          email: shantank@andrew.cmu.edu
+          image: tommy-chen.jpg                    
+        - name: Immanuel Huang
+          email: immanueh@andrew.cmu.edu
           type: TA
-          image: shantanu-kamath.jpg          
-        - name: Shuning Lin
-          email: shuningl@andrew.cmu.edu
+          image: immanuel-huang.jpg
+        - name: Jay Patel
+          email: japatel@andrew.cmu.edu
           type: TA
-          image: shuning-lin.jpg
-        - name: Sumanth Rao
-          email: ssr2@andrew.cmu.edu
+          image: jay-patel.jpg
+        - name: Junyi Zhang
+          email: junyizha@andrew.cmu.edu
           type: TA
-          image: sumanth-rao.jpg
-        - name: Ying Chen
-          email: yingc4@andrew.cmu.edu
+          image: junyi-zhang.jpg       
+        - name: Kazuyuki Takayama
+          email: ktakayam@andrew.cmu.edu
           type: TA
-          image: ying-chen.jpg
-        - name: Yiwen (Victor) Song
-          email: yiwenson@andrew.cmu.edu
+          image: kazuyuki-takayama.jpg
+        - name: Michelle Deng
+          email: msdeng@andrew.cmu.edu
           type: TA
-          image: yiwen-song.jpg
-        - name: Yizhou Sheng
-          email: yizhoush@andrew.cmu.edu
+          image: michelle-deng.jpg
+        - name: Midhush Karthic
+          email: mthevend@andrew.cmu.edu
           type: TA
-          image: yizhou-sheng.jpg
-        - name: Zeean Veljee
-          email: zsv@andrew.cmu.edu 
+          image: midhush.jpg
+        - name: Runze Wang
+          email: runzew@andrew.cmu.edu
           type: TA
-          image: zeean-veljee.png
+          image: runze-wang.jpg
+        - name: Ruoyu Chen
+          email: ruoyuche@andrew.cmu.edu
+          type: TA
+          image: ruoyu-chen.jpg
+        - name: Suryaa Selvara
+          email: suryaak@andrew.cmu.edu
+          type: TA
+          image: suryaa.jpg
+        - name: Timothy Hyun
+          email: thyun@andrew.cmu.edu
+          type: TA
+          image: timothy-hyun.jpg
+        - name: Vrinda Jindal
+          email: vrindaj@andrew.cmu.edu
+          type: TA
+          image: vrinda-jindal.jpg
+        - name: Yicheng Zhang
+          email: yicheng4@andrew.cmu.edu
+          type: TA
+          image: yicheng-zhang.jpg
+        - name: Yuqiao (Katrina) Hu
+          email: yuqiaohu@andrew.cmu.edu
+          type: TA
+          image: yuqian-hu.jpg
+
 
 
 
