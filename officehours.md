@@ -9,12 +9,12 @@ buttons:
 micro_nav: false
 ---
 
-Office hours will be held in the GHC commons, unless otherwise noted in the calendar below. We will use [OHQueue](https://cmu.ohqueue.com/#/ca) to manage student wait time for TAs, queue name "15-440" (*not "15-4400640"*).
+Office hours will be held in the GHC commons, unless otherwise noted in the calendar below. We will use [OHQueue](https://ohq.eberly.cmu.edu/#/courses) to manage student wait time for TAs, queue name "15-440".
 
 **Important notes**
 
 - There will be no office hours for the 24 hours before a project deadline, so make sure to start early!
 
-Updates/changes will show up in the calendar below.  We will also try to note them in [the pinned Edstem post](https://edstem.org/us/courses/26903/discussion/1803018).
+Updates/changes will show up in the calendar below.  We will also try to note them in [the pinned Edstem post](https://edstem.org/us/courses/44873/discussion/3353794).
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=MTUtNDQwQGFuZHJldy5jbXUuZWR1&amp;color=%237986CB&amp;mode=WEEK" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

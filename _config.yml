@@ -60,7 +60,7 @@ course:
     semester: Fall 2023
     time: Tue/Thu 11:00-12:20 in CUC MCCNMY
     venue:
-    piazza: &es ''
+    piazza: &es 'https://edstem.org/us/courses/44873/'
     gradescope: &gs 'https://www.gradescope.com/courses/586692'
     queuestatus:
         url: &qs 'https://ohq.eberly.cmu.edu/#/'
@@ -127,7 +127,7 @@ course:
         piazza:
             icon:
             content: Edstem
-            url: *es
+            url: *es 
             external_url: true
         video:
             icon:
