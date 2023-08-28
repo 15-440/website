@@ -2,7 +2,7 @@ baseurl: ""
 
 # Theme settings
 doks:
-    baseurl: "/15-440/fa2022/"
+    baseurl: "/15-440/fa2023/"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
