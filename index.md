@@ -8,7 +8,7 @@ description: "<p>Most software is now distributed in some sense. This course is 
 
 <p>Major themes covered in this course include scarcity, scheduling, concurrency and concurrent programming, naming, abstraction and modularity, imperfect communication and other types of failure, protection from accidental and malicious harm, optimism, and the use of instrumentation and monitoring and debugging tools in problem solving. As the creation and management of software systems is a fundamental goal of any undergraduate systems course, students will design, implement, and debug large programming projects.</p>"
 
-buttons: [syllabus, piazza, gradescope]
+buttons: [syllabus, edstem, gradescope, pollev]
 micro_nav: true
 ---
 

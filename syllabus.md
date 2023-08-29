@@ -59,7 +59,7 @@ For more information about the project component, see the [assignments](./assign
 
 The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
 
-Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://pollev.com/cmu15440). **Please make sure you are signed-in with your CMU email, otherwise your participation will not be documented.**
+Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU email, otherwise your participation will not be documented.**
 
 _Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, exams, and the projects) in order to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 

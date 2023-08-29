@@ -60,8 +60,9 @@ course:
     semester: Fall 2023
     time: Tue/Thu 11:00-12:20 in CUC MCCNMY
     venue:
-    piazza: &es 'https://edstem.org/us/courses/44873/'
+    edstem: &es 'https://edstem.org/us/courses/44873/'
     gradescope: &gs 'https://www.gradescope.com/courses/586692'
+    pollev: &pe 'https://www.pollev.com/cmu15440'
     queuestatus:
         url: &qs 'https://ohq.eberly.cmu.edu/#/'
         name: '15-440 (Fall 2023)'
@@ -124,10 +125,15 @@ course:
             content: Lecture videos (Fall 2018)
             url: '/lecture/'
             external_url: false
-        piazza:
+        edstem:
             icon:
             content: Edstem
             url: *es 
+            external_url: true
+        pollev:
+            icon:
+            content: PollEv
+            url: *pe
             external_url: true
         video:
             icon:
