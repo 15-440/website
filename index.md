@@ -32,8 +32,7 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 
 Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213/15-513 and gotten a "C-" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
 
-If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. 
-<!-- This year (Fall 2023) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
+If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2023) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears).
 
 ## Learning Objectives
 

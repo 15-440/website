@@ -13,8 +13,7 @@ micro_nav: true
 
 Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
 
-If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. 
-<!-- This year (Fall 2022) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears).  -->
+If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2023) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). 
 
 ## Learning Objectives
 
@@ -49,15 +48,18 @@ The lecture notes will be available after each lecture to assist with studying -
 Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary slightly by the difficulty of the project:
 
 - 45% Projects (9% P0, 15% P1, 11% P2, 10% P3)
-- 15% Homework
+- 10% Homework
 - 20% Midterm 1
 - 20% Midterm 2
+- 5% Participation
 
 Both midterms will be closed book exams.  Midterm 1 will be in class while Midterm 2 will be held during finals week.  Midterm 1 will cover the material presented in the first half of the semester while Midterm 2 will cover the material presented in the second half.  Note however that later material builds on material presented earlier, so Midterm 2 will indirectly cover material presented early in the course.
 
 For more information about the project component, see the [assignments](./assignments) page.
 
 The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
+
+Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://pollev.com/cmu15440). **Please make sure you are signed-in with your CMU email, otherwise your participation will not be documented.**
 
 _Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, exams, and the projects) in order to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 
@@ -87,14 +89,18 @@ Please use your judgement between these two examples. If you post privately, ple
 
 Take project and homework deadlines seriously. Our experience is that students often seriously underestimate the effort involved in programming assignments and projects. If we give you 4 weeks to complete an assignment, there is typically a reason. In the interest of fairness, we have adopted the following late policy:
 
-- 2 late days are automatically granted for every assignment for valid reasons.
-  - This applies for every project and homework individually.
+- 10 late days are given for each student to use on any project or homework deadline.
   - Use it for any reason that you **honestly feel is a valid reason**.
   - No need to email us for permission.
-- There is no grade penalty for these 2 late days.
+  - For partnered projects, late days will be deducted from each partner.
+    - If one partner runs out of late days, no late days can be used. 
+  - You are responsible for keeping track of the number of late days you have used.
+- **At most 3 late days** can be used for each deadline. 
+- There is no grade penalty for these 3 late days.
+- Work cannot be more than 3 days late.  Assignments will **NOT** be accepted 72 hours after the due date.
+- After expending all late days, any late work will **NOT** be accepted.
 - No TA help will be given after the official deadline (i.e., during late days).
-- Work cannot be more than 2 days late.  Assignments will **NOT** be accepted 48 hours after the due date.
-- If you are ill: If you have a medical note, you may turn in your assignments late without penalty. Please contact the [instructors mailing list](mailto:private-to-instructors-15-440-fall2022@lists.andrew.cmu.edu) to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a medical note, the above policies apply.
+- If you have a **serious** medical emergency (e.g. hospitalized), you may turn in your assignments late without penalty. Please contact the [instructors mailing list](mailto:private-to-instructors-15-440-fall2022@lists.andrew.cmu.edu) to arrange a reasonable replacement turn-in time. You must notify us before the due-date. Without a proper explanation, the above policies apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
