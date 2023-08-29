@@ -22,7 +22,7 @@ micro_nav: false
 var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vTUigBx76LT-1zS5GSExE1FzD93Vu_KDOSMaTjoSxQaH_1yB7hanz1jYW78dxXKeA/pub?gid=118115803&single=true&output=csv";
 // var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vR_43dIW4qV8eUWJHg9g_IIw4tAMg9Tz7RLcgU0P1C4U43_lxCNNw24_PjDzoAPuTTWCnXT_sXAqAIv/pub?output=csv";
 
-var rowcols = [
+<!-- var rowcols = [
                 {
                   sheet_row_txt: "First Midterm Exam",
                   color: "#ffe59a"
@@ -49,7 +49,7 @@ console.log(rowcols);
 Skedj(url, "myskedj", {
     columns_to_skip: ["Recitation Lead", "Recitation", "Travel Schedule"],
     special_row_colors: rowcols
-});
+}); -->
 </script>
 
 
