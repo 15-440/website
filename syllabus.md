@@ -100,7 +100,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 - Work cannot be more than 3 days late.  Assignments will **NOT** be accepted 72 hours after the due date.
 - After expending all late days, any late work will **NOT** be accepted.
 - No TA help will be given after the official deadline (i.e., during late days).
-- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:private-to-instructors-15-440-fall2023@lists.andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency– in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
+- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:private-instructors-15-440@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency– in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
