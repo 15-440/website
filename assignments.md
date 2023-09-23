@@ -22,7 +22,7 @@ Homework solutions are available on Canvas, under "Files".
 | [Project 0](https://github.com/15-440/p0)                             | 9/1          | 9/14 11:59PM EDT  | individual     | 9% of course grade |
 | [Homework 1]({{ site.course.links.gradescope.url }})                            | 9/11          | 9/25 11:59PM EDT  | individual     |            |
 | [Project 1](https://github.com/15-440/p1)                             | 9/15          | 9/26 11:59PM EDT (Checkpoint) <br> 10/5 11:59PM EDT (Part A) <br> 10/26 11:59PM EDT (Part B)| group of 2  | 15% of course grade |
-| [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/27          | 10/10 11:59PM EDT | individual      |            |
+| [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/26          | 10/9 11:59PM EDT | individual      |            |
 | [Project 2](https://github.com/15-440/p2)                             | 10/26          | 11/6 11:59PM EST (Checkpoint) <br> 11/16 11:59PM EST (Final) | individual  | 11% of course grade |
 | [Homework 3]({{ site.course.links.gradescope.url }})                            |    11/1      | 11/14 11:59PM EST | individual      |            |
 | [Project 3](https://github.com/15-440/p3)                             | 11/17          | 11/30 11:59PM EST (Checkpoint) <br> 12/8 11:59PM EST (Final) | group of 2  | 10% of course grade |
