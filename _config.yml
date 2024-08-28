@@ -2,7 +2,7 @@ baseurl: ""
 
 # Theme settings
 doks:
-    baseurl: "/15-440/fa2023/"
+    baseurl: "/15-440/fa2024/"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
@@ -28,7 +28,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2020. - Carnegie Mellon University <br>All rights reserved.
+            copyright: Copyright &copy; 2024. Carnegie Mellon University <br>All rights reserved.
         social_list:
             # - network_name: facebook
             #   profile_url: '#'
@@ -57,15 +57,15 @@ permalink: /:title/
 
 # Course logistics
 course:
-    semester: Fall 2023
+    semester: Fall 2024
     time: Tue/Thu 11:00-12:20 in CUC MCCNMY
     venue:
-    edstem: &es 'https://edstem.org/us/courses/44873/'
-    gradescope: &gs 'https://www.gradescope.com/courses/586692'
-    pollev: &pe 'https://www.pollev.com/cmu15440'
+    edstem: &es 'https://edstem.org/us/courses/63374/'
+    gradescope: &gs 'https://www.gradescope.com/courses/833387'
+    pollev: &pe ''
     queuestatus:
         url: &qs 'https://ohq.eberly.cmu.edu/#/'
-        name: '15-440 (Fall 2023)'
+        name: '15-440 (Fall 2024)'
     canvas: 'https://canvas.cmu.edu/'
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
@@ -166,12 +166,10 @@ course:
           url: https://wzheng.github.io/
           image: wenting.jpg
           email: wenting@cmu.edu
-        - name: Edward Chen
-          email: ejchen@cmu.edu
+        - name: Eshita Shrawan
+          email: eshrawan@andrew.cmu.edu
           type: Head TA
-          url: https://edwjchen.github.io/
-          image: edward-chen.jpg
-          email: ejchen@cmu.edu
+          image: eshita-shrawan.jpg          
 
     ta:
         - name: Adhvik Kanagala
