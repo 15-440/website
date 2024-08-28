@@ -172,90 +172,90 @@ course:
           image: eshita-shrawan.jpg          
 
     ta:
-        - name: Adhvik Kanagala
-          email: akanagal@andrew.cmu.edu
-          type: TA
-          image: adhvik-kanagala.jpg
-        - name: Allen Lu
-          email: allenlu@andrew.cmu.edu
-          type: TA
-          image: allen-lu.jpg
-        - name: Arjun Manjunatha Rao
-          email: arjunman@andrew.cmu.edu
-          type: TA
-          image: arjun-rao.jpg
-        - name: Deigant Yadava
-          email: dyadava@andrew.cmu.edu
-          type: TA
-          image: deigant-yadava.jpg
-        - name: Eshita Shrawan
-          email: eshrawan@andrew.cmu.edu
-          type: TA
-          image: eshita-shrawan.jpg
-        - name: Elizabeth Gilbert
-          email: evgilber@andrew.cmu.edu
-          type: TA
-          image: elizabeth-gilbert.jpg
-        - name: Hong Sng
-          email: hongsng@andrew.cmu.edu
-          type: TA
-          image: hong.jpg       
-        - name: Hung-Chieh (Tommy) Chen
-          email: hungchic@andrew.cmu.edu
-          type: TA
-          image: tommy-chen.jpg                    
-        - name: Immanuel Huang
-          email: immanueh@andrew.cmu.edu
-          type: TA
-          image: immanuel-huang.jpg
-        - name: Jay Patel
-          email: japatel@andrew.cmu.edu
-          type: TA
-          image: jay-patel.jpg
-        - name: Junyi Zhang
-          email: junyizha@andrew.cmu.edu
-          type: TA
-          image: junyi-zhang.jpg       
-        - name: Kazuyuki Takayama
-          email: ktakayam@andrew.cmu.edu
-          type: TA
-          image: kazuyuki-takayama.jpg
-        - name: Michelle Deng
-          email: msdeng@andrew.cmu.edu
-          type: TA
-          image: michelle-deng.jpg
-        - name: Midhush Karthic
-          email: mthevend@andrew.cmu.edu
-          type: TA
-          image: midhush.jpg
-        - name: Runze Wang
-          email: runzew@andrew.cmu.edu
-          type: TA
-          image: runze-wang.jpg
-        - name: Ruoyu Chen
-          email: ruoyuche@andrew.cmu.edu
-          type: TA
-          image: ruoyu-chen.jpg
-        - name: Suryaa Selvaraj
-          email: suryaak@andrew.cmu.edu
-          type: TA
-          image: suryaa.jpg
-        - name: Timothy Hyun
-          email: thyun@andrew.cmu.edu
-          type: TA
-          image: timothy-hyun.jpg
-        - name: Vrinda Jindal
-          email: vrindaj@andrew.cmu.edu
-          type: TA
-          image: vrinda-jindal.jpg
-        - name: Yicheng Zhang
-          email: yicheng4@andrew.cmu.edu
-          type: TA
-          image: yicheng-zhang.jpg
-        - name: Yuqiao (Katrina) Hu
-          email: yuqiaohu@andrew.cmu.edu
-          type: TA
-          image: yuqian-hu.jpg
+        # - name: Adhvik Kanagala
+        #   email: akanagal@andrew.cmu.edu
+        #   type: TA
+        #   image: adhvik-kanagala.jpg
+        # - name: Allen Lu
+        #   email: allenlu@andrew.cmu.edu
+        #   type: TA
+        #   image: allen-lu.jpg
+        # - name: Arjun Manjunatha Rao
+        #   email: arjunman@andrew.cmu.edu
+        #   type: TA
+        #   image: arjun-rao.jpg
+        # - name: Deigant Yadava
+        #   email: dyadava@andrew.cmu.edu
+        #   type: TA
+        #   image: deigant-yadava.jpg
+        # - name: Eshita Shrawan
+        #   email: eshrawan@andrew.cmu.edu
+        #   type: TA
+        #   image: eshita-shrawan.jpg
+        # - name: Elizabeth Gilbert
+        #   email: evgilber@andrew.cmu.edu
+        #   type: TA
+        #   image: elizabeth-gilbert.jpg
+        # - name: Hong Sng
+        #   email: hongsng@andrew.cmu.edu
+        #   type: TA
+        #   image: hong.jpg       
+        # - name: Hung-Chieh (Tommy) Chen
+        #   email: hungchic@andrew.cmu.edu
+        #   type: TA
+        #   image: tommy-chen.jpg                    
+        # - name: Immanuel Huang
+        #   email: immanueh@andrew.cmu.edu
+        #   type: TA
+        #   image: immanuel-huang.jpg
+        # - name: Jay Patel
+        #   email: japatel@andrew.cmu.edu
+        #   type: TA
+        #   image: jay-patel.jpg
+        # - name: Junyi Zhang
+        #   email: junyizha@andrew.cmu.edu
+        #   type: TA
+        #   image: junyi-zhang.jpg       
+        # - name: Kazuyuki Takayama
+        #   email: ktakayam@andrew.cmu.edu
+        #   type: TA
+        #   image: kazuyuki-takayama.jpg
+        # - name: Michelle Deng
+        #   email: msdeng@andrew.cmu.edu
+        #   type: TA
+        #   image: michelle-deng.jpg
+        # - name: Midhush Karthic
+        #   email: mthevend@andrew.cmu.edu
+        #   type: TA
+        #   image: midhush.jpg
+        # - name: Runze Wang
+        #   email: runzew@andrew.cmu.edu
+        #   type: TA
+        #   image: runze-wang.jpg
+        # - name: Ruoyu Chen
+        #   email: ruoyuche@andrew.cmu.edu
+        #   type: TA
+        #   image: ruoyu-chen.jpg
+        # - name: Suryaa Selvaraj
+        #   email: suryaak@andrew.cmu.edu
+        #   type: TA
+        #   image: suryaa.jpg
+        # - name: Timothy Hyun
+        #   email: thyun@andrew.cmu.edu
+        #   type: TA
+        #   image: timothy-hyun.jpg
+        # - name: Vrinda Jindal
+        #   email: vrindaj@andrew.cmu.edu
+        #   type: TA
+        #   image: vrinda-jindal.jpg
+        # - name: Yicheng Zhang
+        #   email: yicheng4@andrew.cmu.edu
+        #   type: TA
+        #   image: yicheng-zhang.jpg
+        # - name: Yuqiao (Katrina) Hu
+        #   email: yuqiaohu@andrew.cmu.edu
+        #   type: TA
+        #   image: yuqian-hu.jpg
 
 
 
