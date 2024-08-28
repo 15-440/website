@@ -22,7 +22,7 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 - This semester (Fall 2024), the course will follow closely along the previous Fall versions of this course. In particular, the projects will use the Go programming language.
 - This semester (Fall 2024), lectures are going to be on Tuesdays and Thursdays from 11:00AM-12:20PM in CUC McConomy Auditorium. 
 - All class communication happens on the 15-440 Edstem forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
-- The course content and deadlines for all assignments will be listed in our in our course [schedule]({{ site.baseurl }}/schedule) and on the [assignments]({{ site.baseurl }}/assignments) page.
+- The course content and deadlines for all assignments will be listed in our course [schedule]({{ site.baseurl }}/schedule) and on the [assignments]({{ site.baseurl }}/assignments) page.
 
 <!-- Course Staff -->
 {% include staff.html %}
