@@ -19,7 +19,7 @@ Homework solutions are available on Canvas, under "Files".
 
 | Topic                                     | Release Date | Due Date          | Collaboration | Other Info |
 |-------------------------------------------|--------------|-------------------|---------------|------------|
-| [Project 0]()                             | 9/X          | 9/X 11:59PM EDT  | individual     | 9% of course grade |
+| [Project 0](https://classroom.github.com/a/hSiUMLgb)                             | 8/30         | 9/12 11:59PM EDT  | individual     | 9% of course grade |
 | [Homework 1]({{ site.course.links.gradescope.url }})                            | 9/X          | 9/X 11:59PM EDT  | individual     |            |
 | [Project 1]()                             | 9/X          | 9/X 11:59PM EDT (Checkpoint) <br> 10/X 11:59PM EDT (Part A) <br> 10/X 11:59PM EDT (Part B)| group of 2  | 15% of course grade |
 | [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/X          | 10/X 11:59PM EDT | individual      |            |
