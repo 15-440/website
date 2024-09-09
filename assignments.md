@@ -11,7 +11,7 @@ micro_nav: false
 
 ## Assignments
 
-**TO SUBMIT:** All assignments (both projects and homeworks) must be submitted by the indicated deadline via [Gradescope]({{ site.course.links.gradescope.url }}).
+**TO SUBMIT:** All assignments (both projects and homeworks) must be submitted by the indicated deadline via [Gradescope](https://www.gradescope.com/courses/833387)).
 
 Homework solutions are available on Canvas, under "Files".
 
@@ -20,7 +20,7 @@ Homework solutions are available on Canvas, under "Files".
 | Topic                                     | Release Date | Due Date          | Collaboration | Other Info |
 |-------------------------------------------|--------------|-------------------|---------------|------------|
 | [Project 0](https://classroom.github.com/a/hSiUMLgb)                             | 8/30         | 9/12 11:59PM EDT  | individual     | 9% of course grade |
-| [Homework 1]({{ site.course.links.gradescope.url }})                            | 9/X          | 9/X 11:59PM EDT  | individual     |            |
+| [Homework 1](https://www.gradescope.com/courses/833387/assignments/4918594)                            | 9/9          | 9/23 11:59PM EDT  | individual     |            |
 | [Project 1]()                             | 9/X          | 9/X 11:59PM EDT (Checkpoint) <br> 10/X 11:59PM EDT (Part A) <br> 10/X 11:59PM EDT (Part B)| group of 2  | 15% of course grade |
 | [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/X          | 10/X 11:59PM EDT | individual      |            |
 | [Project 2]()                             | 10/X          | 11/X 11:59PM EST (Checkpoint) <br> 11/X 11:59PM EST (Final) | individual  | 11% of course grade |
