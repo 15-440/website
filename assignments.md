@@ -21,9 +21,9 @@ Homework solutions are available on Canvas, under "Files".
 |-------------------------------------------|--------------|-------------------|---------------|------------|
 | [Project 0](https://classroom.github.com/a/hSiUMLgb)                             | 8/30         | 9/12 11:59PM EDT  | individual     | 9% of course grade |
 | [Homework 1](https://www.gradescope.com/courses/833387/assignments/4918594)                            | 9/9          | 9/23 11:59PM EDT  | individual     |            |
-| [Project 1]()                             | 9/X          | 9/X 11:59PM EDT (Checkpoint) <br> 10/X 11:59PM EDT (Part A) <br> 10/X 11:59PM EDT (Part B)| group of 2  | 15% of course grade |
-| [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/X          | 10/X 11:59PM EDT | individual      |            |
-| [Project 2]()                             | 10/X          | 11/X 11:59PM EST (Checkpoint) <br> 11/X 11:59PM EST (Final) | individual  | 11% of course grade |
-| [Homework 3]({{ site.course.links.gradescope.url }})                            |    11/X      | 11/X 11:59PM EST | individual      |            |
-| [Project 3]()                             | 11/X          | 11/X 11:59PM EST (Checkpoint) <br> 12/X 11:59PM EST (Final) | group of 2  | 10% of course grade |
-| [Homework 4]({{ site.course.links.gradescope.url }})                            |          11/X          | 12/X 11:59PM EST | individual      |            |
+| [Project 1](https://classroom.github.com/a/GrA5CHis)                             | 9/13          | 9/24 11:59PM EDT (Checkpoint) <br> 10/3 11:59PM EDT (Part A) <br> 10/24 11:59PM EDT (Part B)| group of 2  | 15% of course grade |
+| [Homework 2]({{ site.course.links.gradescope.url }})                            | 9/24          | 10/7 11:59PM EDT | individual      |            |
+| [Project 2]()                             | 10/24          | 11/4 11:59PM EST (Checkpoint) <br> 11/14 11:59PM EST (Final) | individual  | 11% of course grade |
+| [Homework 3]({{ site.course.links.gradescope.url }})                            |    10/30      | 11/12 11:59PM EST | individual      |            |
+| [Project 3]()                             | 11/12          | 11/26 11:59PM EST (Checkpoint) <br> 12/6 11:59PM EST (Final) | group of 2  | 10% of course grade |
+| [Homework 4]({{ site.course.links.gradescope.url }})                            |          11/14          | 12/2 11:59PM EST | individual      |            |
