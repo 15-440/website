@@ -26,4 +26,4 @@ Homework solutions are available on Canvas, under "Files".
 | [Project 2](https://classroom.github.com/a/PH9yExxR)                             | 10/24          | 11/4 11:59PM EST (Checkpoint) <br> 11/14 11:59PM EST (Final) | individual  | 11% of course grade |
 | [Homework 3]({{ site.course.links.gradescope.url }})                            |    11/1      | 11/15 11:59PM EST | individual      |            |
 | [Project 3]()                             | 11/12          | 11/26 11:59PM EST (Checkpoint) <br> 12/6 11:59PM EST (Final) | group of 2  | 10% of course grade |
-| [Homework 4]({{ site.course.links.gradescope.url }})                            |          11/14          | 12/2 11:59PM EST | individual      |            |
+| [Homework 4]({{ site.course.links.gradescope.url }})                            |          11/17          | 12/4 11:59PM EST | individual      |            |
