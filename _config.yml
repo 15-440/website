@@ -169,93 +169,86 @@ course:
         - name: Elizabeth Gilbert
           email: evgilber@andrew.cmu.edu
           type: Head TA
-          image: eshita-shrawan.jpg          
+          image: elizabethg.jpg          
 
     ta:
-        - name: Alexander Obolenskiy
-          email: aobolens@andrew.cmu.edu
+        - name: Aditri Gupta
+          email: aditrig@andrew.cmu.edu
           type: TA
-          image: alex-o.png
-        - name: David Fletcher
-          email: dfletche@andrew.cmu.edu
+          image: aditrig.jpg
+        - name: Alexa Lowe
+          email: alexal@andrew.cmu.edu
           type: TA
-          image: david-f.png
-        - name: Martin Lee
-          email: hyungwol@andrew.cmu.edu
-          type: TA
-          image: martin-l.png
-        - name: Ivan Burgert
-          email: iburgert@andrew.cmu.edu
-          type: TA
-          image: ivan-b.png
-        - name: Hanson Han
-          email: jiaheng2@andrew.cmu.edu
-          type: TA
-          image: hanson-h.png
-        - name: Helen Wang
-          email: jingzhi3@andrew.cmu.edu
-          type: TA
-          image: helen-w.png
-        - name: Jeffrey Paulraj
-          email: jpaulraj@andrew.cmu.edu
-          type: TA
-          image: jeffrey-p.png
-        - name: Lucas Zheng
-          email: lyzheng@andrew.cmu.edu
-          type: TA
-          image: lucas-z.png
-        - name: Myles Harris
-          email: msharris@andrew.cmu.edu
-          type: TA
-          image: myles-h.png
-        - name: Rohit Dasanoor
-          email: rdasanoo@andrew.cmu.edu
-          type: TA
-          image: rohit-d.png
-        - name: Roy Huang
-          email: rghuang@andrew.cmu.edu
-          type: TA
-          image: roy-h.png
-        - name: Ruiqi Wang
-          email: ruiqiwan@andrew.cmu.edu
-          type: TA
-          image: ruiqi-w.png
-        - name: Run Qian Gong
-          email: runqiang@andrew.cmu.edu
-          type: TA
-          image: run-qian-g.png
-        - name: Josh Joung
-          email: yoochanj@andrew.cmu.edu
-          type: TA
-          image: josh-j.png
-        - name: Zhaowei Zhang
-          email: zhaoweiz@andrew.cmu.edu
-          type: TA
-          image: zhaowei-z.png
+          image: alexal.jpg
         - name: Andy Zhao
           email: ziyaoz@andrew.cmu.edu
           type: TA
-          image: andy-z.png
-        - name: Otto Wang
-          email: aow@andrew.cmu.edu
+          image: ziyaoz.jpg          
+        - name: Daniel Zhang
+          email: dzhang3@andrew.cmu.edu
           type: TA
-          image: otto-w.png
-        - name: Ethan Kwong
-          email: ethankwo@andrew.cmu.edu
+          image: dzhang3.jpg
+        - name: Gonzalo De Hermenegildo Sordo
+          email: gdeherme@andrew.cmu.edu
           type: TA
-          image: ethan-k.png
-        - name: Hong Sng
-          email: hongsng@andrew.cmu.edu
+          image: gdeherme.jpg
+        - name: Gabriel Sha
+          email: gsha@andrew.cmu.edu
           type: TA
-          image: hong-s.png
-        - name: Tommy Chen
-          email: hungchic@andrew.cmu.edu
+          image: gsha.jpg
+        - name: Lucy Wang
+          email: lexinw@andrew.cmu.edu
           type: TA
-          image: tommy-c.png
-        - name: Dave Nadkarni
-          email: dnadkarn@andrew.cmu.edu 
+          image: lexinw.jpg
+        - name: Matthew Feraru
+          email: mferaru@andrew.cmu.edu
           type: TA
-          image: dave-n.png
+          image: mferaru.jpg
+        - name: May Paek
+          email: mpaek@andrew.cmu.edu
+          type: TA
+          image: mpaek.jpg
+        - name: Matthew Booth
+          email: mwbooth@andrew.cmu.edu
+          type: TA
+          image: mwbooth.jpg
+        - name: Maxwell Feng
+          email: mzf@andrew.cmu.edu
+          type: TA
+          image: mzf.jpg
+        - name: Nithya Arun
+          email: nkarun@andrew.cmu.edu
+          type: TA
+          image: nkarun.jpg
+        - name: Rhea Kripalani
+          email: rkripala@andrew.cmu.edu
+          type: TA
+          image: rkripala.jpg
+        - name: Stephen Chien
+          email: shchien@andrew.cmu.edu
+          type: TA
+          image: shchien.jpg
+        - name: Steven Shi
+          email: sshi2@andrew.cmu.edu
+          type: TA
+          image: sshi2.jpg
+        - name: Tianhao Gu
+          email: tgu3@andrew.cmu.edu
+          type: TA
+          image: tgu3.jpg
+        - name: Tanisha Mehta
+          email: tsmehta@andrew.cmu.edu
+          type: TA
+          image: tsmehta.jpg
+        - name: Varshini Subramanian
+          email: varshins@andrew.cmu.edu
+          type: TA
+          image: varshins.jpg
+        - name: Xinyu Li
+          email: xinyul3@andrew.cmu.edu
+          type: TA
+          image: xinyul3.jpg
+
 
 
 

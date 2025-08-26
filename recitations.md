@@ -18,10 +18,10 @@ Recitations are **not held every week**, only when shown on the [schedule](../sc
 
 | Section |    Day    |        Time       |   Format  |   Room    |
 |:-------:|:---------:|:-----------------:|:---------:|:---------:|
-|    A    |  Friday   |  9:00am - 9:50am  | In-Person |   MM A14  |
+|    A    |  Friday   |  9:00am - 9:50am  | In-Person |   POS 151  |
 |    B    |  Friday   |  10:00am - 10:50am | In-Person |  HH B103  |
 |    C    |  Friday   |  3:00pm - 3:50pm  | In-Person |  POS 153  |
-|    D    |  Friday   |  2:00pm - 2:50pm  | In-Person |  POS 153  |
+|    D    |  Friday   |  2:00pm - 2:50pm  | In-Person |  DH 2315  |
 |    E    |  Friday   |  8:00am - 8:50am  | In-Person |  HH B131  |
 
 
