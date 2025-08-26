@@ -62,7 +62,7 @@ course:
     venue:
     edstem: &es 'https://edstem.org/us/courses/84244/discussion'
     gradescope: &gs 'https://www.gradescope.com/courses/1099007'
-    pollev: &pe ''
+    pollev: &pe 'https://pollev.com/cmu15440'
     queuestatus:
         url: &qs 'https://ohq.eberly.cmu.edu/#/'
         name: '15-440 (Fall 2025)'
