@@ -9,6 +9,7 @@ buttons:
 micro_nav: false
 ---
 
+- [Midterm I solution for Fall 2024](https://drive.google.com/file/d/1YIJCzKqa10nscnsWVo5t_pHpUBHQd-5f/view)
 - [Midterm I solution for Fall 2022](https://drive.google.com/file/d/1vOjOpMc8jito3rr7OoZRCNI9ilLM4lle/view?usp=sharing)
 - [Midterm I solution for Fall 2021](https://www.synergylabs.org/courses/15-440/assignments/Midterm1-Fall2021-solutions.pdf)
 - [Midterm I solution for Fall 2020](../assets/midterm1_2020.pdf)
