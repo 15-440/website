@@ -12,8 +12,6 @@ micro_nav: false
 - [Midterm I solution for Fall 2022](https://drive.google.com/file/d/1vOjOpMc8jito3rr7OoZRCNI9ilLM4lle/view?usp=sharing)
 - [Midterm I solution for Fall 2021](https://www.synergylabs.org/courses/15-440/assignments/Midterm1-Fall2021-solutions.pdf)
 - [Midterm I solution for Fall 2020](../assets/midterm1_2020.pdf)
-- [Midterm I solution for Fall 2016](http://www.cs.cmu.edu/~srini/15-440/lectures/midterm-Fall2016-solve.pdf).
-- [Midterm I solution for Fall 2017](https://www.cs.cmu.edu/~dberger1/15-440-fall17/midterm-f2017.pdf).
 - [Sample Midterm I from Fall 2018 (without solutions)](https://www.synergylabs.org/courses/15-440/assignments/Fall2018-Midterm-I-noAnswers.pdf) and [this is *with* solutions](https://www.synergylabs.org/courses/15-440/assignments/Fall2018-Midterm-I-WithSolutions.pdf).
 - [Midterm I from Fall 2019 (without solutions)](https://www.synergylabs.org/courses/15-440/assignments/Fall2019-Midterm-I-noAnswers.pdf) and [this is *with* solutions](https://www.synergylabs.org/courses/15-440/assignments/Fall2019-Midterm-I-WithSolutions.pdf).
 - [Sample Midterm II from Fall 2016 (without solutions)](https://www.synergylabs.org/courses/15-440/assignments/Fall2016-Midterm-II-noAnswers.pdf) and [this is *with* solutions](https://www.synergylabs.org/courses/15-440/assignments/Fall2016-Midterm-II-WithSolutions.pdf).
