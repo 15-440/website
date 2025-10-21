@@ -17,7 +17,7 @@ micro_nav: false
 <div id="myskedj"></div>
 
 <link href="https://unpkg.com/skedj@4.1.0/build/bootstrap-table.css" rel="stylesheet">
-<script type="text/javascript" src="https://unpkg.com/skedj@4.1.0/build/skedj.js"></script>
+<script type="text/javascript" src="../assets/js/skedj.js"></script>
 <script type="text/javascript">
 var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/e/2PACX-1vTAeFf4z8x-wlycyvyrA4AZiqjnajz32VSNV_i740WWhH_uwo32F8wlX92PxFrsCw/pub?gid=118115803&single=true&output=csv";
 // var url = "https://heather-cors.herokuapp.com/https://docs.google.com/spreadsheets/d/1SB28K2hMVzBQ7JEci_0F_T-J8c_Lahm5/pub?output=csv";
