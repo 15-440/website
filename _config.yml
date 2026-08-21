@@ -1,9 +1,9 @@
-url: "https://15-440.github.io"
-baseurl: "/website"
+url: "https://15440.courses.cs.cmu.edu"
+baseurl: ""
 
 # Theme settings
 doks:
-    baseurl: "/website"
+    baseurl: ""
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
