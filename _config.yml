@@ -29,7 +29,7 @@ doks:
             logo:
                 text:
                 image:
-            copyright: Copyright &copy; 2025. Carnegie Mellon University <br>All rights reserved.
+            copyright: Copyright &copy; 2026. Carnegie Mellon University <br>All rights reserved.
         social_list:
             # - network_name: facebook
             #   profile_url: '#'
@@ -58,15 +58,15 @@ permalink: /:title/
 
 # Course logistics
 course:
-    semester: Fall 2025
+    semester: Fall 2026
     time: Tue/Thu 11:00-12:20 in CUC MCCNMY
     venue:
-    edstem: &es 'https://edstem.org/us/courses/84244/discussion'
-    gradescope: &gs 'https://www.gradescope.com/courses/1099007'
+    edstem: &es 'https://edstem.org/us/courses/102065'
+    gradescope: &gs 'https://www.gradescope.com/courses/1352034'
     pollev: &pe 'https://pollev.com/cmu15440'
     queuestatus:
         url: &qs 'https://ohq.eberly.cmu.edu/#/'
-        name: '15-440 (Fall 2025)'
+        name: '15-440 (Fall 2026)'
     canvas: 'https://canvas.cmu.edu/'
     project_timeline:
         proposal: 2020-04-22T23:59:00-07:00
@@ -157,98 +157,103 @@ course:
             external_url: true
 
     staff:
-        - name: Heather Miller
+        - name: Charlie Garrod
           type: Instructor
-          url: https://heather.miller.am
-          image: heather.jpg
-          email: heather.miller@cs.cmu.edu
-        - name: Wenting Zheng
+          url: https://www.cs.cmu.edu/~charlie/
+          image: charlie.jpg
+          email: charlie@cs.cmu.edu
+        - name: Yuvraj Agarwal
           type: Instructor
-          url: https://wzheng.github.io/
-          image: wenting.jpg
-          email: wenting@cmu.edu
-        - name: Elizabeth Gilbert
-          email: evgilber@andrew.cmu.edu
-          type: Head TA
-          image: elizabethg.jpg          
+          url: https://www.synergylabs.org/yuvraj/
+          image: yuvraj.png
+          email: yuvraj@cs.cmu.edu
+        - name: Ben Titzer
+          type: Instructor
+          url: https://s3d.cmu.edu/people/core-faculty/titzer-ben.html
+          image: titzer.png
+          email: btitzer@andrew.cmu.edu
+        - name: Aditya Chanana
+          email: achanana@andrew.cmu.edu
+          type: Lead TA
+          image: achanana.jpg
 
     ta:
-        - name: Aditri Gupta
-          email: aditrig@andrew.cmu.edu
+        - name: Alejandro Estrada
+          email: alejande@andrew.cmu.edu
           type: TA
-          image: aditrig.jpg
-        - name: Alexa Lowe
-          email: alexal@andrew.cmu.edu
+          image: alejande.jpeg
+        - name: Alex Xu
+          email: alexxu@andrew.cmu.edu
           type: TA
-          image: alexal.jpg
-        - name: Andy Zhao
-          email: ziyaoz@andrew.cmu.edu
+          image: alexxu.png
+        - name: Arin Bhandari
+          email: arinb@andrew.cmu.edu
           type: TA
-          image: ziyaoz.jpg          
-        - name: Daniel Zhang
-          email: dzhang3@andrew.cmu.edu
+          image: arinb.jpg
+        - name: Bert Shan
+          email: bshan@andrew.cmu.edu
           type: TA
-          image: dzhang3.jpg
-        - name: Gonzalo De Hermenegildo Sordo
-          email: gdeherme@andrew.cmu.edu
+          image: bshan.jpg
+        - name: Bhargav Kommireddy
+          email: bkommire@andrew.cmu.edu
           type: TA
-          image: gdeherme.jpg
-        - name: Gabriel Sha
-          email: gsha@andrew.cmu.edu
-          type: TA
-          image: gsha.jpg
-        - name: Lucy Wang
-          email: lexinw@andrew.cmu.edu
-          type: TA
-          image: lexinw.jpg
-        - name: Matthew Feraru
-          email: mferaru@andrew.cmu.edu
-          type: TA
-          image: mferaru.jpg
-        - name: May Paek
-          email: mpaek@andrew.cmu.edu
-          type: TA
-          image: mpaek.jpg
-        - name: Matthew Booth
-          email: mwbooth@andrew.cmu.edu
-          type: TA
-          image: mwbooth.jpg
-        - name: Maxwell Feng
-          email: mzf@andrew.cmu.edu
-          type: TA
-          image: mzf.jpg
-        - name: Nithya Arun
-          email: nkarun@andrew.cmu.edu
-          type: TA
-          image: nkarun.jpg
-        - name: Rhea Kripalani
-          email: rkripala@andrew.cmu.edu
-          type: TA
-          image: rhea.png
-        - name: Stephen Chien
-          email: shchien@andrew.cmu.edu
-          type: TA
-          image: stephen.png
-        - name: Steven Shi
-          email: sshi2@andrew.cmu.edu
-          type: TA
-          image: sshi2.jpg
-        - name: Tianhao Gu
-          email: tgu3@andrew.cmu.edu
-          type: TA
-          image: tgu3.jpg
-        - name: Tanisha Mehta
-          email: tsmehta@andrew.cmu.edu
+          image: bkommire.jpeg
+        - name: Cindy Wang
+          email: cindywan@andrew.cmu.edu
           type: TA
           image: silhouette.png
-        - name: Varshini Subramanian
-          email: varshins@andrew.cmu.edu
+        - name: Daryl Lavin
+          email: daryllav@andrew.cmu.edu
           type: TA
-          image: varshins.jpg
-        - name: Xinyu Li
-          email: xinyul3@andrew.cmu.edu
+          image: daryllav.jpg
+        - name: Dillon Shelton
+          email: dillonsh@andrew.cmu.edu
           type: TA
-          image: xinyul3.jpg
+          image: dillonsh.jpeg
+        - name: Isaac Au
+          email: yau@andrew.cmu.edu
+          type: TA
+          image: yau.jpg
+        - name: Jeslyn Koay
+          email: tkoay@andrew.cmu.edu
+          type: TA
+          image: tkoay.jpg
+        - name: Maggie Gong
+          email: yiyug@andrew.cmu.edu
+          type: TA
+          image: yiyug.jpg
+        - name: Mert Iren
+          email: miren@andrew.cmu.edu
+          type: TA
+          image: miren.jpeg
+        - name: Nathan Chen
+          email: nuodec@andrew.cmu.edu
+          type: TA
+          image: nuodec.jpg
+        - name: Nick Yaeger
+          email: nyaeger@andrew.cmu.edu
+          type: TA
+          image: nyaeger.jpg
+        - name: Rohaib Cheema
+          email: rcheema@andrew.cmu.edu
+          type: TA
+          image: silhouette.png
+        - name: Sean Lim
+          email: seanlim@andrew.cmu.edu
+          type: TA
+          image: seanlim.png
+        - name: Varun Donde
+          email: vdonde@andrew.cmu.edu
+          type: TA
+          image: vdonde.jpeg
+        - name: William Li
+          email: wl4@andrew.cmu.edu
+          type: TA
+          image: wl4.jpg
+        - name: Zak Kent
+          email: zkent@andrew.cmu.edu
+          type: TA
+          image: zkent.jpeg
 
 
 

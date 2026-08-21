@@ -13,7 +13,7 @@ micro_nav: true
 
 Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
 
-If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2023) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). 
+If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). 
 
 ## Learning Objectives
 
@@ -100,7 +100,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 - Work cannot be more than 3 days late.  Assignments will **NOT** be accepted 72 hours after the due date.
 - After expending all late days, any late work will **NOT** be accepted.
 - No TA help will be given after the official deadline (i.e., during late days).
-- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:private-instructors-15-440@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency– in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
+- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:ds-staff-F26-private@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency– in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
