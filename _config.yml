@@ -16,8 +16,6 @@ doks:
               item_url: '/schedule'
             - item_name: Office Hours
               item_url: '/officehours'
-            - item_name: Assignments
-              item_url: '/assignments'
             - item_name: Recitations
               item_url: '/recitations'
             - item_name: Past Exams
@@ -201,7 +199,7 @@ course:
         - name: Cindy Wang
           email: cindywan@andrew.cmu.edu
           type: TA
-          image: silhouette.png
+          image: cindywan.jpg
         - name: Daryl Lavin
           email: daryllav@andrew.cmu.edu
           type: TA
@@ -237,7 +235,7 @@ course:
         - name: Rohaib Cheema
           email: rcheema@andrew.cmu.edu
           type: TA
-          image: silhouette.png
+          image: rcheema.jpeg
         - name: Sean Lim
           email: seanlim@andrew.cmu.edu
           type: TA

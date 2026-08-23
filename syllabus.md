@@ -13,7 +13,7 @@ micro_nav: true
 
 Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
 
-If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). 
+<-- If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
 
 ## Learning Objectives
 
@@ -45,31 +45,62 @@ The lecture notes will be available after each lecture to assist with studying -
 
 ## Grading
 
-Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary slightly by the difficulty of the project:
+Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary by the difficulty of the project:
 
-- 45% Projects (9% P0, 15% P1, 11% P2, 10% P3)
-- 10% Homework
-- 20% Midterm 1
-- 20% Midterm 2
-- 5% Participation
+- 36% Projects (5% P0, 8% P1, 5% P2, 18% P3)
+- 5% Homework
+- 15% Quizzes
+- 20% Midterm Exam
+- 20% Final Exam 
+- 4% Participation
 
-Both midterms will be closed book exams.  Midterm 1 will be in class while Midterm 2 will be held during finals week.  Midterm 1 will cover the material presented in the first half of the semester while Midterm 2 will cover the material presented in the second half.  Note however that later material builds on material presented earlier, so Midterm 2 will indirectly cover material presented early in the course.
-
-For more information about the project component, see the [assignments]({{ site.baseurl }}/assignments) page.
-
-The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
+All quizzes and exams will be closed note, closed book.  
 
 Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU Andrew email address, otherwise your participation will not be documented.**
 
-_Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, exams, and the projects) in order to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
+_Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, quizzes and exams, and the projects) to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 
-## Collaboration
+## AI Policy
 
-Students are encouraged to talk to each other, to the TAs, to the instructors, or to anyone else about any of the assignments. Any assistance, though, must be limited to discussion of the problem and sketching general approaches to a solution. Each student must write out his or her own solutions to the homework. The project handouts have more detailed information about collaboration when working on the projects, but, basically, each programming project group must write their own code and documentation for the programming projects done as a group.
+We believe that the distributed systems concepts you learn in this course matter, and that learning them well is critically important for the future systems that you design and build; subtle concurrency anomalies, race conditions, and partial failures can compromise safety-critical infrastructure.  There is increasingly strong evidence that AI use can interfere with learning.  We also believe, however, that authentic learning experiences (including the use of modern AI) provide rich value, and we are philosophically opposed to creating a policy that we can't equitably enforce.  
 
-Consulting another student's or group's solution is prohibited, and submitted solutions may not be copied from any source. These and any other form of collaboration on assignments constitute cheating. If you have any question about whether some activity would constitute cheating, please feel free to ask the instructors.
+With that in mind:
 
-You may not supply work that you complete during 15-440 to other students in future instances of this course or for use in future instances of this course (just as you may not use work completed by students who've taken the course previously). To be clear, this also means you may not leave your solutions publicly visible on the web, github, or any other platform.
+- **Projects:**  Each student is responsible for understanding every line of code submitted, regardless of which partner or agent drafted it.  You may use AI tools, including agents, to help craft your solutions to the programming projects.  Although the use of autonomous agents is not prohibited, we strongly recommend against the use of tools that generate substantial code without your direct control.  You must know how and why your solution works, and we expect you to be able to produce solutions to similar problems on paper, including the generation of syntactically correct programs, without the use of AI or other external tools.
+- **Homeworks:**  We believe that the use of AI tools on homework is much more likely to interfere with learning than to help you learn.  Although we don't prohibit the use of AI tools, we strongly recommend that you complete the homeworks by hand, using AI only as a high-level resource similar to how you might use a Wikipedia page. Our homeworks are designed to help you understand key concepts, some of which will be tested on written quizzes and exams.  
+- **Quizzes, exams, and presentations:**  All external resources, including AI tools, are prohibited during project presentations and on quizzes and exams.
+- **Disclosure and attribution:**  If you use AI tools to assist with a project or homework submission, you must include an explicit disclosure in your submission, specifying: (1) the platform(s) and specific model(s) used; (2) the type of tool use (e.g., code autocompletion, debugging assistance, agent-based code generation); and (3) how it was used (e.g., generated 50% of the code, helped in debugging, generated test cases, etc.).  It is an academic integrity violation to not fully disclose the use of AI tools.
+- **Course material and data privacy:**  You are strictly prohibited from feeding course-supplied content (including project starter code, assignment writeups, test suites, and homework problems) into platforms whose data retention or training policies could leak course material into future models.  By default, consumer accounts on platforms such as OpenAI ChatGPT, Google Gemini, and Anthropic Claude allow consumer data to be used for model training.  Please see [CMU’s AI Safety page](https://www.cmu.edu/computing/services/ai/meet-ai/secure-ai.html) for a list of platforms that can be safely used with non-sharable data, when used via your CMU Andrew account.
+
+Our course is designed to be completed successfully without the use of AI tools.  We encourage you to use AI tools thoughtfully in ways to improve your learning rather than as a way to save time or effort.
+
+## Academic Integrity and Collaboration Policy
+
+We expect that your work on assignments, projects, and exams will be your own work. Thus, you may not copy any part of a solution to a problem that was written by another student, or was developed together with another student, or was copied from another unauthorized source such as the Internet. You may not look at another student's solution, even if you have completed your own, nor may you knowingly give your solution to another student or leave your solution where another student can see it.
+
+You may not possess smart glasses or have a phone or other computing device visible during a quiz or exam.  Possessing smart glasses during a quiz or exam will be considered an academic integrity violation, even if you are not wearing them.
+
+Here are some examples of behavior that are inappropriate:
+
+- Copying (or retyping) files, parts of files (such as source code, written text, or unit tests), quiz solutions, or exam solutions from another person or source, either in draft or final form, even if the file permissions are incorrectly set to allow it. This behavior is still clearly inappropriate even if you make modifications (such as style changes or minor logic modifications) from the original source.
+- Searching for or viewing a current or past student's homework solution.
+- Allowing someone else to view or copy your code, written assignment, quiz, or exam, either in draft or final form.
+- Getting help that you do not fully understand or from someone whom you do not acknowledge on your solution.
+- Coaching others step-by-step without them understanding your help.
+- Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise security of course resources.
+- Lying to course staff.
+- Making your work publicly available in a way that other students (current or future) can access your solutions, even if others’ access is accidental or incidental to your goals.
+- If any of your work contains any statement that was not written by you, you must put it in quotes and cite the source. If you are paraphrasing an idea you read elsewhere, you must acknowledge the source. Using existing material without proper citation is plagiarism, a form of cheating. If there is any question about whether the material is permitted, you must get permission in advance.
+
+It is not considered cheating to clarify vague points in the assignments, lectures, lecture notes, or to give help or receive help in using the computer systems, compilers, debuggers, profilers, or other facilities.
+
+Some projects are specifically noted as group projects. For these, interpret "you" in the preceeding paragraphs to mean "you and your partner(s)."
+
+Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e. lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the University Policy on Academic Integrity.
+
+There is no statute of limitations for violations of the collaboration policy; penalties may be assessed (and referred to the university disciplinary board) after you have completed the course, and some requirements of the collaboration policy (such as restrictions on you posting your solutions) extend beyond your completion of the course.
+
+If you have any question about how this policy applies in a particular situation, ask the instructors or TAs for clarification.
 
 <!-- ## Piazza Policy
 
