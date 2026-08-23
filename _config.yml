@@ -1,9 +1,9 @@
 url: "https://courseweb.sp.cs.cmu.edu"
-baseurl: "/15-440"
+baseurl: "/15-440/fall-2026"
 
 # Theme settings
 doks:
-    baseurl: "/15-440"
+    baseurl: "/15-440/fall-2026"
     color_theme: # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
