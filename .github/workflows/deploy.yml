@@ -33,10 +33,10 @@ jobs:
       - name: Deploy to remote server via rsync
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-          REMOTE_USER: ${{ secrets.REMOTE_USER }}
-          REMOTE_DIR: ${{ secrets.REMOTE_DIR }}
-          REMOTE_PORT: ${{ secrets.REMOTE_PORT || '22' }}
+          REMOTE_HOST: ${{ vars.REMOTE_HOST }}
+          REMOTE_USER: ${{ vars.REMOTE_USER }}
+          REMOTE_DIR: ${{ vars.REMOTE_DIR }}
+          REMOTE_PORT: ${{ vars.REMOTE_PORT || '22' }}
         run: |
           mkdir -p ~/.ssh
           chmod 700 ~/.ssh
