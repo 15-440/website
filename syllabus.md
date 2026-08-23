@@ -45,23 +45,34 @@ The lecture notes will be available after each lecture to assist with studying -
 
 ## Grading
 
-Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary slightly by the difficulty of the project:
+Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary by the difficulty of the project:
 
-- 45% Projects (9% P0, 15% P1, 11% P2, 10% P3)
-- 10% Homework
-- 20% Midterm 1
-- 20% Midterm 2
-- 5% Participation
+- 36% Projects (5% P0, 8% P1, 5% P2, 18% P3)
+- 5% Homework
+- 15% Quizzes
+- 20% Midterm Exam
+- 20% Final Exam 
+- 4% Participation
 
-Both midterms will be closed book exams.  Midterm 1 will be in class while Midterm 2 will be held during finals week.  Midterm 1 will cover the material presented in the first half of the semester while Midterm 2 will cover the material presented in the second half.  Note however that later material builds on material presented earlier, so Midterm 2 will indirectly cover material presented early in the course.
-
-For more information about the project component, see the [assignments]({{ site.baseurl }}/assignments) page.
-
-The homework will combine both textbook-like questions as well as hands-on experimental exercises. There will be four homework assignments.
+All quizzes and exams will be closed note, closed book.  
 
 Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU Andrew email address, otherwise your participation will not be documented.**
 
-_Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, exams, and the projects) in order to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
+_Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, quizzes and exams, and the projects) to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
+
+## AI Policy
+
+We believe that the distributed systems concepts you learn in this course matter, and that learning them well is critically important for the future systems that you design and build; subtle concurrency anomalies, race conditions, and partial failures can compromise safety-critical infrastructure.  There is increasingly strong evidence that AI use can interfere with learning.  We also believe, however, that authentic learning experiences (including the use of modern AI) provide rich value, and we are philosophically opposed to creating a policy that we can't equitably enforce.  
+
+With that in mind:
+
+- **Projects:**  Each student is responsible for understanding every line of code submitted, regardless of which partner or agent drafted it.  You may use AI tools, including agents, to help craft your solutions to the programming projects.  Although the use of autonomous agents is not prohibited, we strongly recommend against the use of tools that generate substantial code without your direct control.  You must know how and why your solution works, and we expect you to be able to produce solutions to similar problems on paper, including the generation of syntactically correct programs, without the use of AI or other external tools.
+- **Homeworks:**  We believe that the use of AI tools on homework is much more likely to interfere with learning than to help you learn.  Although we don't prohibit the use of AI tools, we strongly recommend that you complete the homeworks by hand, using AI only as a high-level resource similar to how you might use a Wikipedia page. Our homeworks are designed to help you understand key concepts, some of which will be tested on written quizzes and exams.  
+- **Quizzes, exams, and presentations:**  All external resources, including AI tools, are prohibited during project presentations and on quizzes and exams.
+- **Disclosure and attribution:**  If you use AI tools to assist with a project or homework submission, you must include an explicit disclosure in your submission, specifying: (1) the platform(s) and specific model(s) used; (2) the type of tool use (e.g., code autocompletion, debugging assistance, agent-based code generation); and (3) how it was used (e.g., generated 50% of the code, helped in debugging, generated test cases, etc.).  It is an academic integrity violation to not fully disclose the use of AI tools.
+- **Course material and data privacy:**  You are strictly prohibited from feeding course-supplied content (including project starter code, assignment writeups, test suites, and homework problems) into platforms whose data retention or training policies could leak course material into future models.  By default, consumer accounts on platforms such as OpenAI ChatGPT, Google Gemini, and Anthropic Claude allow consumer data to be used for model training.  Please see CMU’s AI Safety page for a list of platforms that can be safely used with non-sharable data, when used via your CMU Andrew account.
+
+Our course is designed to be completed successfully without the use of AI tools.  We encourage you to use AI tools thoughtfully in ways to improve your learning rather than as a way to save time or effort.
 
 ## Collaboration
 
