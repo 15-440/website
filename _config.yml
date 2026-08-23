@@ -16,8 +16,6 @@ doks:
               item_url: '/schedule'
             - item_name: Office Hours
               item_url: '/officehours'
-            - item_name: Assignments
-              item_url: '/assignments'
             - item_name: Recitations
               item_url: '/recitations'
             - item_name: Past Exams
