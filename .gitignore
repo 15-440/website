@@ -3,3 +3,8 @@
 _site/
 
 .idea/
+
+# Local & deployment configuration overrides
+_config.*.yml
+_config_*.yml
+!_config.yml
