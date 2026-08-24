@@ -9,9 +9,7 @@ buttons:
 micro_nav: true
 ---
 
-We have several recitation sessions. As of now, all are set to take place in-person.
-
-Recitations are **not held every week**, only when shown on the [schedule]({{ site.baseurl }}/schedule). We will also announce upcoming recitations in lecture.
+We have several recitation sessions, all in person.  Recitations are **not held every week**, only when shown on the [schedule]({{ site.baseurl }}/schedule). We will also announce upcoming recitations in lecture.
 
 **All** recitations take place on Fridays.
 
@@ -25,5 +23,4 @@ Recitations are **not held every week**, only when shown on the [schedule]({{ si
 |    E    |  Friday   |  8:00am - 8:50am  | In-Person |  HH B131  |
 
 
-
-You may attend a recitation section besides the one you are enrolled in if there is space available in the room.
+If a recitation includes a scheduled quiz, you must attend the section in which you are officially enrolled.  For weeks without a scheduled quiz, you may attend an alternative section if there is space available in the room.

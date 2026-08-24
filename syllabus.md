@@ -11,7 +11,7 @@ micro_nav: true
 
 ## Prerequisites
 
-Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher because many of the programming skills you will need are taught in that course. <!-- **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
+Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher because many of the programming skills you will need are taught in that course. <!-- **However, if you received a C or C- in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
 
 <!-- If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
 
@@ -38,7 +38,7 @@ After this course, students will have learned to...
 The lecture notes will be available after each lecture to assist with studying -- **please read them** as they often contain material that goes beyond just what we covered in lecture! For supplemental reading in particular areas, you may find one of the following texts, available from the library, helpful:
 
 - **Computer Networks: A Systems Approach,** fourth edition, by Larry Peterson and Bruce Davie.
--  **Operating Systems Concepts** seventh edition, by Silberschatz, Galvin and Gagne
+-  **Operating System Concepts** seventh edition, by Silberschatz, Galvin and Gagne
 - For the projects, please see [Dave's Notes on Software Engineering for Systems Hackers](http://www.cs.cmu.edu/~dga/systems-se.pdf).
 - For programming, see **Unix Network Programming: Networking APIs: Sockets and XTI (Volume 1)** by W. Richard Stevens.
 - **Advanced Programming in the Unix Environment** by W. Richard Stevens, Addison-Wesley, 1993.
@@ -56,7 +56,7 @@ Your final grade for the course will be based on the following weights for the c
 
 All quizzes and exams will be closed note, closed book.  
 
-Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. <!-- You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU Andrew email address, otherwise your participation will not be documented.** -->
+Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. <!-- You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed in with your CMU Andrew email address, otherwise your participation will not be documented.** -->
 
 _Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, quizzes and exams, and the projects) to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 
@@ -95,7 +95,7 @@ Here are some examples of behavior that are inappropriate:
 
 It is not considered cheating to clarify vague points in the assignments, lectures, lecture notes, or to give help or receive help in using the computer systems, compilers, debuggers, profilers, or other facilities.
 
-Some projects are specifically noted as group projects. For these, interpret "you" in the preceeding paragraphs to mean "you and your partner(s)."
+Some projects are specifically noted as group projects. For these, interpret "you" in the preceding paragraphs to mean "you and your partner(s)."
 
 Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e. lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the [University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
 
@@ -132,7 +132,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 - Work cannot be more than 3 days late.  Assignments will **NOT** be accepted 72 hours after the due date.
 - After expending all late days, any late work will **NOT** be accepted.
 - No TA help will be given after the official deadline (i.e., during late days).
-- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:ds-staff-F26-private@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency– in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
+- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:ds-staff-F26-private@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency – in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
@@ -156,7 +156,7 @@ Students may not make audio or video recordings of the class, including lectures
 
 Please try to avoid having partner problems. Seriously! Share your hopes before they turn into concerns, your concerns before they have problems, and your problems before they inflate into crises.
 
-Also, in order for the course staff to help you and your partner work through issues, or for us to provide an appropriate response to serious partner problems, you must contact us well before the relevant due date! While some problems can never be truly solved, it is likely that your career after CMU will you to sometimes "involve management" to address issues with co-workers, and will certainly require you to work out all sorts of problems with your co-workers. If you find yourself in a situation which you can't resolve, it will provide you with an opportunity to practice interacting with management.
+Also, in order for the course staff to help you and your partner work through issues, or for us to provide an appropriate response to serious partner problems, you must contact us well before the relevant due date! While some problems can never be truly solved, it is likely that your career after CMU will require you to sometimes "involve management" to address issues with co-workers, and will certainly require you to work out all sorts of problems with your co-workers. If you find yourself in a situation which you can't resolve, it will provide you with an opportunity to practice interacting with management.
 
 A special case to avoid is coming to us a day or two before a major deadline to tell us that your partner has been ill (etc.) for multiple weeks. We, and thus you, have many more options if you inform us while a problem is developing, instead of after the fact.
 

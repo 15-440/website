@@ -4,7 +4,7 @@ comments: false
 keywords:
 
 title: Schedule
-description: The time plan for the semester. For all assignments and projects, follow the deadlines listed on this page.
+description: Course schedule and assignment deadlines for the semester. 
 buttons:
 micro_nav: false
 ---
@@ -12,7 +12,7 @@ micro_nav: false
 
 ## Schedule
 
-**_NOTE: Topics/dates listed below are not set in stone. Some adjustments might be made over the course of the semester._**
+**_NOTE: Topics and dates are tentative and subject to change during the semester._**
 
 <div id="myskedj"></div>
 
