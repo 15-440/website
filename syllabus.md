@@ -11,7 +11,7 @@ micro_nav: true
 
 ## Prerequisites
 
-Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher since many of the programming skills you will need are taught in that course. **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.**
+Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher because many of the programming skills you will need are taught in that course. <!-- **However, if you received a C in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
 
 <!-- If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
 
@@ -48,7 +48,7 @@ The lecture notes will be available after each lecture to assist with studying -
 Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary by the difficulty of the project:
 
 - 36% Projects (5% P0, 8% P1, 5% P2, 18% P3)
-- 5% Homework
+- 5% Written Homework
 - 15% Quizzes
 - 20% Midterm Exam
 - 20% Final Exam 
@@ -56,7 +56,7 @@ Your final grade for the course will be based on the following weights for the c
 
 All quizzes and exams will be closed note, closed book.  
 
-Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU Andrew email address, otherwise your participation will not be documented.**
+Participation will be recorded using in-class, multiple-choice polls. While these polls are evaluated based purely on participation, selecting the correct answers will serve as a tool to assess your grasp of the lecture content. <!-- You can access the class poll at [www.pollev.com/cmu15440](https://www.pollev.com/cmu15440). **Please make sure you are signed-in with your CMU Andrew email address, otherwise your participation will not be documented.** -->
 
 _Because of the importance of understanding both the theoretical and hands-on elements of systems, students must pass all three components of the course (homeworks, quizzes and exams, and the projects) to receive a passing grade for the course._ This does not affect the actual letter grade assignment unless one of the components is not completed to a passing standard.
 
@@ -90,13 +90,14 @@ Here are some examples of behavior that are inappropriate:
 - Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise security of course resources.
 - Lying to course staff.
 - Making your work publicly available in a way that other students (current or future) can access your solutions, even if others’ access is accidental or incidental to your goals.
+- Using AI tools without disclosure and attribution as described in the AI Policy.
 - If any of your work contains any statement that was not written by you, you must put it in quotes and cite the source. If you are paraphrasing an idea you read elsewhere, you must acknowledge the source. Using existing material without proper citation is plagiarism, a form of cheating. If there is any question about whether the material is permitted, you must get permission in advance.
 
 It is not considered cheating to clarify vague points in the assignments, lectures, lecture notes, or to give help or receive help in using the computer systems, compilers, debuggers, profilers, or other facilities.
 
 Some projects are specifically noted as group projects. For these, interpret "you" in the preceeding paragraphs to mean "you and your partner(s)."
 
-Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e. lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the University Policy on Academic Integrity.
+Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e. lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the [University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
 
 There is no statute of limitations for violations of the collaboration policy; penalties may be assessed (and referred to the university disciplinary board) after you have completed the course, and some requirements of the collaboration policy (such as restrictions on you posting your solutions) extend beyond your completion of the course.
 
@@ -147,7 +148,9 @@ Also note that in this course, project grades will be determined based on the fi
 
 ## Recordings
 
-The course staff in 15-440 strongly encourage participation and asking questions during lectures, and to attend our office hours and interact there. Therefore, to protect the privacy of your fellow students, no audio or video recordings may be made of the class without the prior permission of the instructor. If the course staff make audio or video recordings of the course, we will notify the course before such recordings are made (and will make it extremely obvious because there will be a big camera in the back of the room...).
+Students may not make audio or video recordings of the class, including lectures and recitation sections, without the prior permission of the instructor.
+
+<!-- The course staff in 15-440 strongly encourage participation and asking questions during lectures, and to attend our office hours and interact there. Therefore, to protect the privacy of your fellow students, no audio or video recordings may be made of the class without the prior permission of the instructor. If the course staff make audio or video recordings of the course, we will notify the course before such recordings are made (and will make it extremely obvious because there will be a big camera in the back of the room...). -->
 
 ## Partner Problems
 
