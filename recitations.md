@@ -4,14 +4,12 @@ comments: false
 keywords:
 
 title: Recitations
-description: Info on how we will be running recitation sessions this semester.
+description: Information on recitation sessions, times, and locations.
 buttons:
 micro_nav: true
 ---
 
-We have several recitation sessions, all in person.  Recitations are **not held every week**, only when shown on the [schedule]({{ site.baseurl }}/schedule). We will also announce upcoming recitations in lecture.
-
-**All** recitations take place on Fridays.
+We have several recitation sessions, all in person.  Recitations are **not held every week**; they meet only when shown on the [schedule]({{ site.baseurl }}/schedule). 
 
 
 | Section |    Day    |        Time       |   Format  |   Room    |

@@ -4,7 +4,7 @@ keywords:
 title: Distributed Systems
 description: "<p>Most software is now distributed in some sense. This course is meant to serve as an introduction to distributed systems, emphasizing techniques for creating functional, usable, and high-performance distributed systems.</p>
 
-<p>This course aims to: (1) provide students with an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, scheduling, and communication across the network. (2) provide students with practical experience designing, implementing, and debugging real distributed systems.</p>
+<p>This course aims to: (1) provide students with an understanding of the principles and techniques behind the design of distributed systems, such as locking, concurrency, scheduling, and communication across the network; and (2) provide students with practical experience designing, implementing, and debugging real distributed systems.</p>
 
 <p>Major themes covered in this course include scarcity, scheduling, concurrency and concurrent programming, naming, abstraction and modularity, imperfect communication and other types of failure, protection from accidental and malicious harm, optimism, and the use of instrumentation and monitoring and debugging tools in problem solving. As the creation and management of software systems is a fundamental goal of any undergraduate systems course, students will design, implement, and debug large programming projects.</p>"
 
@@ -20,8 +20,8 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 ## Course Information
 
 - This semester (Fall 2026), the course will closely follow previous Fall offerings. In particular, the projects will use the Go programming language.
-- This semester (Fall 2026), lectures are going to be on Tuesdays and Thursdays from 11:00AM-12:20PM in CUC McConomy Auditorium. 
-- All class communication happens on the 15-440 Edstem forum. For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
+- Lectures are Tuesdays and Thursdays from 11:00AM-12:20PM in CUC McConomy Auditorium. 
+- Online class communication should use the 15-440 EdStem forum. For in-depth discussions with TAs, we strongly encourage you to come to office hours.
 - The course content and deadlines for all assignments will be listed in our course [schedule]({{ site.baseurl }}/schedule).
 
 <!-- Course Staff -->
@@ -30,7 +30,7 @@ If you are on the waitlist, we encourage you to attend the first few classes. Ty
 
 ## Prerequisites
 
-Because this course has a big project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213/15-513 and gotten a "C-" or higher since many of the programming skills you will need are taught in that course. <!-- **However, if you received a C or C- in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
+Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems and have gotten a "C-" or higher in 15-213/15-523.  We will use the [Go programming language](https://golang.org/), but we do not assume you have had any programming experience in Go. <!-- **However, if you received a C or C- in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
 
 <!-- If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
 

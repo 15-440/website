@@ -4,14 +4,14 @@ comments: false
 keywords:
 
 title: Syllabus
-description: All important things to know about the course. Course objectives, textbook, grading policies, etc.
+description: Essential course information such as course objectives, textbook, grading policies, etc.
 buttons:
 micro_nav: true
 ---
 
 ## Prerequisites
 
-Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems. We will use the [Go programming language](https://golang.org/) throughout the term. It is required that you have taken 15-213 and gotten a "C" or higher because many of the programming skills you will need are taught in that course. <!-- **However, if you received a C or C- in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
+Because this course has a substantial project component, you must be proficient in C and programming on UNIX systems and have gotten a "C-" or higher in 15-213/15-523.  We will use the [Go programming language](https://golang.org/), but we do not assume you have had any programming experience in Go.  <!-- **However, if you received a C or C- in 15-213, you must meet with your academic advisor to discuss your background before taking 15-440/640, perhaps taking an additional course to sharpen your systems skills. Your advisor must email us approval and an explanation of why you have sufficient background to take 15-440/640.** -->
 
 <!-- If you have not taken 15-213/15-513 but believe you have taken an equivalent course (for example, master's students might have taken a similar course during their undergrad), you may join the waitlist. This year (Fall 2026) exceptionally, we have decided to allow these students to join the course _after_ the waitlist clears for students who have the proper prerequisites (if it clears). -->
 
@@ -37,15 +37,15 @@ After this course, students will have learned to...
 
 The lecture notes will be available after each lecture to assist with studying -- **please read them** as they often contain material that goes beyond just what we covered in lecture! For supplemental reading in particular areas, you may find one of the following texts, available from the library, helpful:
 
-- **Computer Networks: A Systems Approach,** fourth edition, by Larry Peterson and Bruce Davie.
--  **Operating System Concepts** seventh edition, by Silberschatz, Galvin and Gagne
+- **Computer Networks: A Systems Approach**, fourth edition, by Larry Peterson and Bruce Davie.
+-  **Operating System Concepts**, seventh edition, by Silberschatz, Galvin and Gagne
 - For the projects, please see [Dave's Notes on Software Engineering for Systems Hackers](http://www.cs.cmu.edu/~dga/systems-se.pdf).
 - For programming, see **Unix Network Programming: Networking APIs: Sockets and XTI (Volume 1)** by W. Richard Stevens.
 - **Advanced Programming in the Unix Environment** by W. Richard Stevens, Addison-Wesley, 1993.
 
 ## Grading
 
-Your final grade for the course will be based on the following weights for the components of the course. The weights of the individual projects will vary by the difficulty of the project:
+Your overall grade for the course will be based on the following weights, and the weights of the individual projects will vary by difficulty:
 
 - 36% Projects (5% P0, 8% P1, 5% P2, 18% P3)
 - 5% Written Homework
@@ -69,8 +69,8 @@ With that in mind:
 - **Projects:**  Each student is responsible for understanding every line of code submitted, regardless of which partner or agent drafted it.  You may use AI tools, including agents, to help craft your solutions to the programming projects.  Although the use of autonomous agents is not prohibited, we strongly recommend against the use of tools that generate substantial code without your direct control.  You must know how and why your solution works, and we expect you to be able to produce solutions to similar problems on paper, including the generation of syntactically correct programs, without the use of AI or other external tools.
 - **Homeworks:**  We believe that the use of AI tools on homework is much more likely to interfere with learning than to help you learn.  Although we don't prohibit the use of AI tools, we strongly recommend that you complete the homeworks by hand, using AI only as a high-level resource similar to how you might use a Wikipedia page. Our homeworks are designed to help you understand key concepts, some of which will be tested on written quizzes and exams.  
 - **Quizzes, exams, and presentations:**  All external resources, including AI tools, are prohibited during project presentations and on quizzes and exams.
-- **Disclosure and attribution:**  If you use AI tools to assist with a project or homework submission, you must include an explicit disclosure in your submission, specifying: (1) the platform(s) and specific model(s) used; (2) the type of tool use (e.g., code autocompletion, debugging assistance, agent-based code generation); and (3) how it was used (e.g., generated 50% of the code, helped in debugging, generated test cases, etc.).  It is an academic integrity violation to not fully disclose the use of AI tools.
-- **Course material and data privacy:**  You are strictly prohibited from feeding course-supplied content (including project starter code, assignment writeups, test suites, and homework problems) into platforms whose data retention or training policies could leak course material into future models.  By default, consumer accounts on platforms such as OpenAI ChatGPT, Google Gemini, and Anthropic Claude allow consumer data to be used for model training.  Please see [CMU’s AI Safety page](https://www.cmu.edu/computing/services/ai/meet-ai/secure-ai.html) for a list of platforms that can be safely used with non-sharable data, when used via your CMU Andrew account.
+- **Disclosure and attribution:**  If you use AI tools to assist with a project or homework submission, you must include an explicit disclosure in your submission, specifying: (1) the platform(s) and specific model(s) used; (2) the type of tool use (e.g., code autocompletion, debugging assistance, agent-based code generation); and (3) how it was used (e.g., generated 50% of the code, helped in debugging, generated test cases, etc.).  Failure to fully disclose the use of AI tools is an academic integrity violation.
+- **Course material and data privacy:**  You are strictly prohibited from feeding course-supplied content (including project starter code, assignment writeups, test suites, and homework problems) into platforms whose data retention or training policies could leak course material into future models.  By default, consumer accounts on platforms such as OpenAI ChatGPT, Google Gemini, and Anthropic Claude allow consumer data to be used for model training.  Please see [CMU’s AI Safety page](https://www.cmu.edu/computing/services/ai/meet-ai/secure-ai.html) for a list of platforms that can be safely used with non-shareable data when used via your CMU Andrew account.
 
 Our course is designed to be completed successfully without the use of AI tools.  We encourage you to use AI tools thoughtfully in ways to improve your learning rather than as a way to save time or effort.
 
@@ -87,7 +87,7 @@ Here are some examples of behavior that are inappropriate:
 - Allowing someone else to view or copy your code, written assignment, quiz, or exam, either in draft or final form.
 - Getting help that you do not fully understand or from someone whom you do not acknowledge on your solution.
 - Coaching others step-by-step without them understanding your help.
-- Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise security of course resources.
+- Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise the security of course resources.
 - Lying to course staff.
 - Making your work publicly available in a way that other students (current or future) can access your solutions, even if others’ access is accidental or incidental to your goals.
 - Using AI tools without disclosure and attribution as described in the AI Policy.
@@ -97,11 +97,11 @@ It is not considered cheating to clarify vague points in the assignments, lectur
 
 Some projects are specifically noted as group projects. For these, interpret "you" in the preceding paragraphs to mean "you and your partner(s)."
 
-Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e. lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the [University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment; a typical penalty will be -100% on the assignment. Dishonesty while discussing an academic integrity issue (i.e., lying to course staff) usually results in an 'R' in the course. All violations of this collaboration policy will be referred to the appropriate University disciplinary board, with possible additional disciplinary action. For more information, see the [University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
 
 There is no statute of limitations for violations of the collaboration policy; penalties may be assessed (and referred to the university disciplinary board) after you have completed the course, and some requirements of the collaboration policy (such as restrictions on you posting your solutions) extend beyond your completion of the course.
 
-If you have any question about how this policy applies in a particular situation, ask the instructors or TAs for clarification.
+If you have any questions about how this policy applies in a particular situation, ask the instructors or TAs for clarification.
 
 <!-- ## Piazza Policy
 
@@ -119,10 +119,10 @@ Please use your judgement between these two examples. If you post privately, ple
 
 ## Late Policy
 
-Take project and homework deadlines seriously. Our experience is that students often seriously underestimate the effort involved in programming assignments and projects. If we give you 4 weeks to complete an assignment, there is typically a reason. In the interest of fairness, we have adopted the following late policy:
+Take project and homework deadlines seriously. Our experience is that students often substantially underestimate the effort involved in programming assignments and projects. If we give you 4 weeks to complete an assignment, there is typically a reason. In the interest of fairness, we have adopted the following late policy:
 
 - 10 late days are given for each student to use on any project or homework deadline.
-  - Use it for any reason that you **honestly feel is a valid reason**.
+  - Use late days for any reason that you **honestly feel is a valid reason**.
   - No need to email us for permission.
   - For partnered projects, late days will be deducted from each partner.
     - If one partner runs out of late days, no late days can be used. 
@@ -132,7 +132,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 - Work cannot be more than 3 days late.  Assignments will **NOT** be accepted 72 hours after the due date.
 - After expending all late days, any late work will **NOT** be accepted.
 - No TA help will be given after the official deadline (i.e., during late days).
-- If you have a **serious** medical emergency (e.g. you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors mailing list](mailto:ds-staff-F26-private@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc, don't count as a serious medical emergency – in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
+- If you have a serious medical emergency (e.g., you've been hospitalized), and your academic advisor can verify this, we will find a way to accommodate you. Please contact the [instructors' mailing list](mailto:ds-staff-F26-private@andrew.cmu.edu) to arrange a reasonable replacement turn-in time. Keep in mind that catching a cold, going to the eye doctor, getting food poisoning, etc., don't count as a serious medical emergency – in these cases, the above policy of up to 3 late days per assignment (out of a total of 10 overall) apply.
 
 <!--
 - The deadline for any assignment (except for those announced in advance) can be extended with a 10% penalty per day.
@@ -142,7 +142,7 @@ Take project and homework deadlines seriously. Our experience is that students o
 
 ## Re-Grading
 
-If you think we made a mistake in grading, please submit a regrade request on Gradescope with a note explaining your concern no later than two weeks after the day the assignment was returned. We will have the question re-graded by the person responsible for grading that question.
+If you think we made a mistake in grading, please submit a regrade request on Gradescope with a note explaining your concern no later than two weeks after the day the assignment was returned. We will have the question regraded by the person responsible for grading that question.
 
 Also note that in this course, project grades will be determined based on the final submission you make to Gradescope.
 
@@ -154,9 +154,9 @@ Students may not make audio or video recordings of the class, including lectures
 
 ## Partner Problems
 
-Please try to avoid having partner problems. Seriously! Share your hopes before they turn into concerns, your concerns before they have problems, and your problems before they inflate into crises.
+Please try to avoid having partner problems. Seriously! Share your hopes before they turn into concerns, your concerns before they turn into problems, and your problems before they inflate into crises.
 
-Also, in order for the course staff to help you and your partner work through issues, or for us to provide an appropriate response to serious partner problems, you must contact us well before the relevant due date! While some problems can never be truly solved, it is likely that your career after CMU will require you to sometimes "involve management" to address issues with co-workers, and will certainly require you to work out all sorts of problems with your co-workers. If you find yourself in a situation which you can't resolve, it will provide you with an opportunity to practice interacting with management.
+Also, in order for the course staff to help you and your partner work through issues, or for us to provide an appropriate response to serious partner problems, you must contact us well before the relevant due date! Although some problems can never be truly solved, it is likely that your career after CMU will require you to sometimes "involve management" to address issues with co-workers, and you will certainly need to work through interpersonal friction. If you find yourself in a situation which you can't resolve, it will provide you with an opportunity to practice interacting with management.
 
 A special case to avoid is coming to us a day or two before a major deadline to tell us that your partner has been ill (etc.) for multiple weeks. We, and thus you, have many more options if you inform us while a problem is developing, instead of after the fact.
 

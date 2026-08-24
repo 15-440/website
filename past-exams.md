@@ -34,5 +34,5 @@ Please note that these are from a much older version of the class. The topics co
 - [Sample Midterm I from 2011](http://www.cs.cmu.edu/~dga/15-440/F12/midterm2011_noans.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/midterm2011_solve.pdf).
 - [Sample Midterm I from 2010](http://www.cs.cmu.edu/~dga/15-440/F12/midterm2010_noans.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/midterm2010_solve.pdf).
 - [Sample Final from 2011](http://www.cs.cmu.edu/~dga/15-440/F12/final2011.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/final2011-solve.pdf).
-- [Sample Final from 2010](http://www.cs.cmu.edu/~dga/15-440/F12/final2010.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/final2010-solve.pdf)
+- [Sample Final from 2010](http://www.cs.cmu.edu/~dga/15-440/F12/final2010.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/final2010-solve.pdf).
 - [Sample Final from 2009](http://www.cs.cmu.edu/~dga/15-440/F12/final2009.pdf) and [with solutions](http://www.cs.cmu.edu/~dga/15-440/F12/final2009-solve.pdf).
